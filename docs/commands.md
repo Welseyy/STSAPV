@@ -54,7 +54,7 @@
 /removelightbar 
 ```
 ``` ts title="zorgt_ervoor_dat_je_automatisch_respawned_nadat_de_delay_is_verlopen"
-/autorespawn, 
+/autorespawn
 ```
 ``` ts
 /eup 
