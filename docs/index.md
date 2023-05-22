@@ -1,10 +1,6 @@
 # Informatie Website STS
 
-Welkom op de pagina voor de Wet- en Regelgeving van STS!
-In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op STS.
-
-Zorg ervoor, dat je voor je deelneemt aan STS, kennis hebt genomen van deze wetten.
-
+Welkom op de pagina voor informatie en APV van STS!
 - De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay.
 
 ## Officiële discord servers
