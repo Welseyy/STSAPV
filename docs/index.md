@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# Informatie Website STS
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welkom op de pagina voor de Wet- en Regelgeving van STS!
+In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op STS.
 
-## Commands
+Zorg ervoor, dat je voor je deelneemt aan STS, kennis hebt genomen van deze wetten.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay.
 
-## Project layout
+## Officiële discord servers
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+STS Haar officiele Discord servers:
+
+| Server | Beschrijving | Invite link |
+|---|---|:---:|
+| Shady's Testserver | Main discord server van Shady | [Invite](https://discord.gg/PKZrnW7dQc) |
+| STS Support | Support discord van Shady | [Invite](https://discord.gg/EtgWNDzpCb) |
+| STS Onderwereld | Onderwereld Discord van Shady | [Invite](https://discord.gg/XsRSdDNbWt) |
+| STS Overheid | Overheids Discord van Shady | [Invite](https://discord.gg/mVWmnZ7Tc8) |
+| STS Scripts | Scripts van Shady | [Invite](https://discord.gg/YCyM35bxKp) |
