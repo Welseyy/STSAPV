@@ -1,6 +1,6 @@
 # Joblijst
 
-Hieronder vindt je de joblijst
+### Hieronder vindt je de joblijst
 
 ``` sh title="Standaard Jobs"
 
