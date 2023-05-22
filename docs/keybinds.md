@@ -1,33 +1,35 @@
+
+
 # Keybinds
 
 ## Normale Keybinds
 
 | Toets | Werking |
 |---|---|
-| M | Telefoon |
-| Shift + G | Tackle voor Politie/KMAR |
-| H | Fluiten |
-| Shift+F2 | Porto GUI |
-| Capslock | Praten in Porto|
-| Rechter Alt |Fake porto praten|
-| F1 | Wapen Attachments |
-| F2 | Inventory |
-| F3 | Emotes |
-| F5 | Testserver Menu |
-| F6 | Speler Interactie |
-| F7 | Factuur Menu |
-| F10 | Spelerlijst |
-| F11 | Kleding |
-| B | Wijzen|
-| K | Accessoires menu |
-| 3 | Emotes Menu|
-| Shift + F9 (3sec) | Noodknop Politie |
+| +m+ | Telefoon |
+| +shift+g+ | Tackle voor Politie/KMAR |
+| +h+ | Fluiten |
+| +shift+f2+ | Porto GUI |
+| +caps-lock+ | Praten in Porto|
+| +right-alt+ |Fake porto praten|
+| +f1+ | Wapen Attachments |
+| +f2+ | Inventory |
+| +f3+ | Emotes |
+| +f5+ | Testserver Menu |
+| +f6+ | Speler Interactie |
+| +f7+ | Factuur Menu |
+| +f10+ | Spelerlijst |
+| +f11+ | Kleding |
+| +b+ | Wijzen|
+| +k+ | Accessoires menu |
+| +3+ | Emotes Menu|
+| +shift+f9+ (3sec) | Noodknop Politie |
 
 ## Auto Keybinds
 
 | Toets | Werking |
 |---|---|
-| U | Auto Lock |
-| L | Kofferbak |
-| 3 | Car Menu |
-| Shift + B | Drift-mode|
+| +u+ | Auto Lock |
+| +l+ | Kofferbak |
+| +3+ | Car Menu |
+| +shift+b+ | Drift-mode|
