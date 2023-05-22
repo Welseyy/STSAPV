@@ -84,3 +84,15 @@ nav:
   - Voertuigenlijst: voertuigenlijst.md
   - Itemlijst: itemlijst.md
   - Redzoneinfo: redzoneinfo.md
+
+# Customization
+extra:
+  annotate:
+    json: [.s2]
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/PKZrnW7dQc
+
