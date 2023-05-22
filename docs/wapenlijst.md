@@ -13,11 +13,11 @@ Voorbeeld van inspawnen: /giveweapon (ID) weapon_(JOUWAPEN) (ammoaantal)
 WEAPON_KNIFE
 ```
 
-``` ts title="Nighstick'
+``` ts title="Nighstick"
 WEAPON_NIGHTSTICK
 ```
 
-``` ts title="Hammer'
+``` ts title="Hammer"
 WEAPON_HAMMER
 ```
 
