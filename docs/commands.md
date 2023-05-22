@@ -18,19 +18,19 @@
 /fixvehicle
 ```
 
-``` ts title="Joblijst voor meer info"
+``` ts title="Joblijst_voor_meer_info"
 /setjob 
 ```
 
-``` ts title="Joblijst voor meer info"
+``` ts title="Joblijst_voor_meer_info"
 /setjob2
 ```
 
-``` ts title="Voertuigen lijst voor meer info"
+``` ts title="Voertuigen_lijst_voor_meer_info"
 /car 
 ```
 
-``` ts title="/giveweapon 1 weapon_assaultrifle scope"
+``` ts title="/giveweapon_1_weapon_assaultrifle_scope"
 /giveweaponcomponent {id} {wapen naam} {attachment}  
 ```
 
@@ -59,52 +59,55 @@
 /removelightbar 
 ```
 
-``` ts title="zorgt ervoor dat je automatisch respawned nadat de delay is verlopen"
+``` ts title="zorgt_ervoor_dat_je_automatisch_respawned_nadat_de_delay_is_verlopen"
 /autorespawn, 
 ```
 
 ``` ts
 /eup 
 ```
+
 ``` ts
 /eupdsi 
 ```
+
 ``` ts
 /eupdefensie 
 ```
+
 ``` ts
 /euprecherche 
 ```
 
-``` ts title="je roepnummer in whitelisted portos"
+``` ts title="je roepnummer_in_whitelisted_portos"
 /setcallsign {callsign}
 ```
 
-``` ts title="toggle wapens op je rug"
+``` ts title="toggle_wapens_op_je_rug"
 /toggleback  
 ```
 
-``` ts title="fixt meestal de ontzichtbaarheids bug voor jezelf"
+``` ts title="fixt_meestal_de_ontzichtbaarheids_bug_voor_jezelf"
 /ontzichtbaarfix
 ```
 
-``` ts title="snij iemand zijn keel door"
+``` ts title="snij_iemand_zijn_keel_door"
 /snijkeel 
 ```
 
-``` ts title="rockstar editor menu"
+``` ts title="rockstar_editor_menu"
 /record 
 ```
 
-``` ts title="verander ingame settings voor jezelf waardoor je meer fps krijgt"
+``` ts title="verander_ingame_settings_voor_jezelf_waardoor_je_meer_fps_krijgt"
 /fps  
 ```
 
-``` ts title="vlieg door de map heen"
+``` ts title="vlieg_door_de_map_heen"
 /noclip 
 ```
 
-``` ts title="pas de snelheid aan van je noclip"
+``` ts title="pas_de_snelheid_aan_van_je_noclip"
 /noclip_speed {speed}
 ```
 

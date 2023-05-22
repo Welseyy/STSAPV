@@ -21,11 +21,11 @@ WEAPON_NIGHTSTICK
 WEAPON_HAMMER
 ```
 
-``` ts title="Baseball Bat"
+``` ts title="Baseball_Bat"
 WEAPON_BAT
 ```
 
-``` ts title="Golf Club"
+``` ts title="Golf_Club"
 WEAPON_GOLFCLUB
 ```
 
@@ -33,11 +33,11 @@ WEAPON_GOLFCLUB
 WEAPON_CROWBAR
 ```
 
-``` ts title="Fire Extinguisher"
+``` ts title="Fire_Extinguisher"
 WEAPON_FIREEXTINGUISHER
 ```
 
-``` ts title="Jerry Can"
+``` ts title="Jerry_Can"
 WEAPON_PETROLCAN
 ```
 
@@ -45,7 +45,7 @@ WEAPON_PETROLCAN
 WEAPON_BOTTLE
 ```
 
-``` ts title="Antique Cavalry Dagger"
+``` ts title="Antique_Cavalry Dagger"
 WEAPON_DAGGER
 ```
 
@@ -53,7 +53,7 @@ WEAPON_DAGGER
 WEAPON_HATCHET
 ```
 
-``` ts title="Knuckle Duster"
+``` ts title="Knuckle_Duster"
 WEAPON_KNUCKLE
 ```
 
@@ -69,7 +69,7 @@ WEAPON_FLASHLIGHT
 WEAPON_SWITCHBLADE
 ```
 
-``` ts title="Battle Axe"
+``` ts title="Battle_Axe"
 WEAPON_BATTLEAXE
 ```
 

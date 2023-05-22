@@ -3,7 +3,7 @@
 ### Hieronder vindt je de joblijst
 
 
-``` ts title="Standaard Jobs"
+``` ts title="Standaard_Jobs"
 
 /setjob {id} unemployed 0 | Koos Werkloos
 /setjob {id} lumberjack 0 | Houthakker
