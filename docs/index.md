@@ -1,6 +1,7 @@
 # Informatie Website STS
 
 Welkom op de pagina voor informatie en APV van STS!
+
 - De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay.
 
 ## Officiële discord servers
