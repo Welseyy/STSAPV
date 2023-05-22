@@ -17,18 +17,23 @@
 ``` sh
 /fixvehicle
 ```
+
 ``` sh title="Joblijst voor meer info"
 /setjob 
 ```
+
 ``` sh title="Joblijst voor meer info"
 /setjob2
 ```
+
 ``` sh title="Voertuigen lijst voor meer info"
 /car 
 ```
+
 ``` sh title="/giveweapon 1 weapon_assaultrifle scope"
 /giveweaponcomponent {id} {wapen naam} {attachment}  
 ```
+
 ``` sh
 /request_search
 ```
@@ -53,9 +58,11 @@
 ``` sh
 /removelightbar 
 ```
+
 ``` sh title="zorgt ervoor dat je automatisch respawned nadat de delay is verlopen"
 /autorespawn, 
 ```
+
 ``` sh
 /eup 
 ```
@@ -68,30 +75,39 @@
 ``` sh
 /euprecherche 
 ```
+
 ``` sh title="je roepnummer in whitelisted portos"
 /setcallsign {callsign}
 ```
+
 ``` sh title="toggle wapens op je rug"
 /toggleback  
 ```
+
 ``` sh title="fixt meestal de ontzichtbaarheids bug voor jezelf"
 /ontzichtbaarfix
 ```
+
 ``` sh title="snij iemand zijn keel door"
 /snijkeel 
 ```
+
 ``` sh title="rockstar editor menu"
 /record 
 ```
+
 ``` sh title="verander ingame settings voor jezelf waardoor je meer fps krijgt"
 /fps  
 ```
+
 ``` sh title="vlieg door de map heen"
 /noclip 
 ```
+
 ``` sh title="pas de snelheid aan van je noclip"
 /noclip_speed {speed}
 ```
+
 ``` sh
 /togglechat
 ```
