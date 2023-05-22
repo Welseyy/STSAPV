@@ -2,7 +2,7 @@
 
 Voorbeeld van inspawnen: /giveweapon (ID) weapon_(JOUWAPEN) (ammoaantal)
 
-``` ts
+``` ts title="Voorbeeld_van_inspawnen"
 /giveweapon 1 weapon_pistol 36.
 ```
 
