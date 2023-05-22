@@ -17,23 +17,18 @@
 ``` ts
 /fixvehicle
 ```
-
 ``` ts title="Joblijst_voor_meer_info"
 /setjob 
 ```
-
 ``` ts title="Joblijst_voor_meer_info"
 /setjob2
 ```
-
 ``` ts title="Voertuigen_lijst_voor_meer_info"
 /car 
 ```
-
 ``` ts title="/giveweapon_1_weapon_assaultrifle_scope"
 /giveweaponcomponent {id} {wapen naam} {attachment}  
 ```
-
 ``` ts
 /request_search
 ```
@@ -58,59 +53,45 @@
 ``` ts
 /removelightbar 
 ```
-
 ``` ts title="zorgt_ervoor_dat_je_automatisch_respawned_nadat_de_delay_is_verlopen"
 /autorespawn, 
 ```
-
 ``` ts
 /eup 
 ```
-
 ``` ts
 /eupdsi 
 ```
-
 ``` ts
 /eupdefensie 
 ```
-
 ``` ts
 /euprecherche 
 ```
-
 ``` ts title="je roepnummer_in_whitelisted_portos"
 /setcallsign {callsign}
 ```
-
 ``` ts title="toggle_wapens_op_je_rug"
 /toggleback  
 ```
-
 ``` ts title="fixt_meestal_de_ontzichtbaarheids_bug_voor_jezelf"
 /ontzichtbaarfix
 ```
-
 ``` ts title="snij_iemand_zijn_keel_door"
 /snijkeel 
 ```
-
 ``` ts title="rockstar_editor_menu"
 /record 
 ```
-
 ``` ts title="verander_ingame_settings_voor_jezelf_waardoor_je_meer_fps_krijgt"
 /fps  
 ```
-
 ``` ts title="vlieg_door_de_map_heen"
 /noclip 
 ```
-
 ``` ts title="pas_de_snelheid_aan_van_je_noclip"
 /noclip_speed {speed}
 ```
-
 ``` ts
 /togglechat
 ```
