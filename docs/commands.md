@@ -2,192 +2,192 @@
 
 ## Normale Commands
 
-``` md
+``` ts
 /giveaccountmoney {id} {money, bank of black_money} {aantal} 
 ```
-``` md
+``` ts
 /heal
 ```
-``` md
+``` ts
 /revive
 ```
-``` md
+``` ts
 /tpm {plek}
 ```
-``` md
+``` ts
 /fixvehicle
 ```
 
-``` md title="Joblijst voor meer info"
+``` ts title="Joblijst voor meer info"
 /setjob 
 ```
 
-``` md title="Joblijst voor meer info"
+``` ts title="Joblijst voor meer info"
 /setjob2
 ```
 
-``` md title="Voertuigen lijst voor meer info"
+``` ts title="Voertuigen lijst voor meer info"
 /car 
 ```
 
-``` md title="/giveweapon 1 weapon_assaultrifle scope"
+``` ts title="/giveweapon 1 weapon_assaultrifle scope"
 /giveweaponcomponent {id} {wapen naam} {attachment}  
 ```
 
-``` md
+``` ts
 /request_search
 ```
-``` md
+``` ts
 /request_boei
 ```
-``` md
+``` ts
 /request_cuff
 ```
-``` md
+``` ts
 /request_radio {ID}
 ```
-``` md
+``` ts
 /lightbar 
 ```
-``` md
+``` ts
 /savelightbar 
 ```
-``` md
+``` ts
 /loadlightbar 
 ```
-``` md
+``` ts
 /removelightbar 
 ```
 
-``` md title="zorgt ervoor dat je automatisch respawned nadat de delay is verlopen"
+``` ts title="zorgt ervoor dat je automatisch respawned nadat de delay is verlopen"
 /autorespawn, 
 ```
 
-``` md
+``` ts
 /eup 
 ```
-``` md
+``` ts
 /eupdsi 
 ```
-``` md
+``` ts
 /eupdefensie 
 ```
-``` md
+``` ts
 /euprecherche 
 ```
 
-``` md title="je roepnummer in whitelisted portos"
+``` ts title="je roepnummer in whitelisted portos"
 /setcallsign {callsign}
 ```
 
-``` md title="toggle wapens op je rug"
+``` ts title="toggle wapens op je rug"
 /toggleback  
 ```
 
-``` md title="fixt meestal de ontzichtbaarheids bug voor jezelf"
+``` ts title="fixt meestal de ontzichtbaarheids bug voor jezelf"
 /ontzichtbaarfix
 ```
 
-``` md title="snij iemand zijn keel door"
+``` ts title="snij iemand zijn keel door"
 /snijkeel 
 ```
 
-``` md title="rockstar editor menu"
+``` ts title="rockstar editor menu"
 /record 
 ```
 
-``` md title="verander ingame settings voor jezelf waardoor je meer fps krijgt"
+``` ts title="verander ingame settings voor jezelf waardoor je meer fps krijgt"
 /fps  
 ```
 
-``` md title="vlieg door de map heen"
+``` ts title="vlieg door de map heen"
 /noclip 
 ```
 
-``` md title="pas de snelheid aan van je noclip"
+``` ts title="pas de snelheid aan van je noclip"
 /noclip_speed {speed}
 ```
 
-``` md
+``` ts
 /togglechat
 ```
-``` md
+``` ts
 /toggletwitter
 ```
-``` md
+``` ts
 /deepweb_toggle_channel
 ```
-``` md
+``` ts
 /togglehud
 ```
-``` md
+``` ts
 /docu
 ```
-``` md
+``` ts
 /parachute
 ```
-``` md
+``` ts
 /tp (ID/Naam)
 ```
-``` md
+``` ts
 /tpa
 ```
-``` md
+``` ts
 /tpc
 ```
 ## Loadout Commands
 
-``` md
+``` ts
 /loadoutall
 ```
-``` md
+``` ts
 /loadoutpistol
 ```
-``` md
+``` ts
 /loadoutdsi
 ```
-``` md
+``` ts
 /loadoutrecherche
 ```
-``` md
+``` ts
 /loadouthrb
 ```
-``` md
+``` ts
 /loadoutkct
 ```
-``` md
+``` ts
 /loadoutak
 ```
-``` md
+``` ts
 /loadout12
 ```
-``` md
+``` ts
 /loadout12fmj
 ```
-``` md
+``` ts
 /loadoutakfmj
 ```
-``` md
+``` ts
 /loadoutpistolhp
 ```
-``` md
+``` ts
 /loadoutpistolfmj
 ```
-``` md
+``` ts
 /loadoutberettahp
 ```
-``` md
+``` ts
 /loadoutberettafmj
 ```
-``` md
-/loadoutmdotgun
+``` ts
+/loadouttsotgun
 ```
-``` md
+``` ts
 /loadoutskorpion
 ```
-``` md
+``` ts
 /loadoutminiak
 ```
-``` md
+``` ts
 /loadoutrecherche
 ```

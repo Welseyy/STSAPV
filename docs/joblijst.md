@@ -3,7 +3,7 @@
 ### Hieronder vindt je de joblijst
 
 
-``` sh title="Standaard Jobs"
+``` ts title="Standaard Jobs"
 
 /setjob {id} unemployed 0 | Koos Werkloos
 /setjob {id} lumberjack 0 | Houthakker
@@ -23,7 +23,7 @@
 ## ANWB
 
 
-``` sh title="ANWB"
+``` ts title="ANWB"
 
 /setjob {id} mechanic 0 | ANWB - Stagiair
 /setjob {id} mechanic 1 | ANWB - Uitzendkracht
@@ -71,7 +71,7 @@
 ## Politie
 
 
-``` sh title="Politie"
+``` ts title="Politie"
 
 /setjob {id} police 0 | Politie - Aspirant
 /setjob {id} police 1 | Politie - Surveillant
@@ -113,7 +113,7 @@
 ## KMAR
 
 
-``` sh title="KMAR"
+``` ts title="KMAR"
 
 /setjob {id} kmar 0 | Marechaussee - der 3e klasse
 /setjob {id} kmar 1 | Marechaussee - der 2e klasse
@@ -171,7 +171,7 @@
 ## Advocaat
 
 
-``` sh title="Advocaat"
+``` ts title="Advocaat"
 
 /setjob {id} advocaat 0 | Justitie - Advocaat stagiair 
 /setjob {id} advocaat 1 | Justitie - Junior advocaat
