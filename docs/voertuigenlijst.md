@@ -4,7 +4,7 @@ Hieronder vindt je de voertuigenlijst
 
 ## Politie Voertuigenlijst
 
-``` sh title="Politie Voertuigenlijst"
+``` sh title="Politie_Voertuigenlijst"
     police  'Touran'
     police2  'Vito Bus'
     police3  'Audi A6'
@@ -46,7 +46,7 @@ Hieronder vindt je de voertuigenlijst
 ## Amublance Voertuigenlijst
 
 
-``` sh title="Ambulance Voertuigen"
+``` sh title="Ambulance_Voertuigen"
     eclass
     ambuam  
     ambu90    
@@ -56,7 +56,7 @@ Hieronder vindt je de voertuigenlijst
 ## ANWB Voertuigen
 
 
-``` sh title="ANWB Voertuigen"
+``` sh title="ANWB_Voertuigen"
     flatbed
     asterope
     tundra
@@ -68,7 +68,7 @@ Hieronder vindt je de voertuigenlijst
 ## Cardealer Voertuigenlijst
 
 
-``` sh title="Cardealer Voertuigen"
+``` sh title="Cardealer_Voertuigen"
 'BMW M5 Touring' '16m5' 212400 'bmw'
 'BMW M5 760i' '17m760i' 161500 'bmw'
 'BMW 760li' '17m760li' 127000 'bmw'
