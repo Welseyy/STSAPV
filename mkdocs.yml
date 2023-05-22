@@ -3,21 +3,38 @@ site_url: https://caspertjuh.github.io/STSAPV/
 site_author: Caspertjuh
 site_description: >-
   Shady's test server Informatie en APV
+
+# Copyright
+copyright: Copyright &copy; 2023 Caspertjuh
+
 # Configuration
 theme:
   name: material
   features:
+    - content.code.copy
+    - content.code.select
   palette:
     - scheme: default
       primary: grey
       accent: grey
       toggle:
         icon: material/toggle-switch
-        name: Switch to dark mode
+        name: Switch naar dark mode
     - scheme: slate
       primary: grey
       accent: grey
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to light mode
+        name: Switch naar light mode
   favicon: assets/favicon.png
+
+# Page tree
+nav:
+  - Home: index.md
+  - Keybinds: keybinds.md
+  - Commands: commands.md
+  - Wapenlijst: wapenlijst.md
+  - Joblijst: joblijst.md
+  - Voertuigenlijst: voertuigenlijst.md
+  - Itemlijst: itemlijst.md
+  - Redzoneinfo: redzoneinfo.md
