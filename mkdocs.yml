@@ -1,6 +1,3 @@
-import markdown
-md = markdown.Markdown(extensions=['pymdownx.keys'])
-
 site_name: STS APV
 site_url: https://caspertjuh.github.io/STSAPV/
 site_author: Caspertjuh
