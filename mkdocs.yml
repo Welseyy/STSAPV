@@ -32,6 +32,7 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch naar light mode
   favicon: assets/favicon.png
+  language: nl
   
 markdown_extensions:
   - abbr
