@@ -1,5 +1,5 @@
-site_name: STS APV
-site_url: https://caspertjuh.github.io/STSAPV/
+site_name: Shady's Testserver
+site_url: http://shadystestserver.nl/
 site_author: Caspertjuh
 site_description: >-
   Shady's test server Informatie en APV
@@ -96,7 +96,7 @@ extra:
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/PKZrnW7dQc
+      link: https://discord.gg/sts
     - icon: fontawesome/brands/tiktok
       link: https://www.tiktok.com/@shadys.testserver
 
