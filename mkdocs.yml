@@ -96,7 +96,7 @@ extra:
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/sts
+      link: https://discord.gg/PKZrnW7dQc
     - icon: fontawesome/brands/tiktok
       link: https://www.tiktok.com/@shadys.testserver
 
