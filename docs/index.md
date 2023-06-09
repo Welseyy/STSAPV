@@ -3,6 +3,7 @@
 Welkom op de pagina voor de Regelgeving van Shady's Testserver! In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Shady's Testserver.
 
 - De Algemene Plaatselijke Verordening bevat alle regels (zogezegd de server regels).
+- De rest van de pagina's zijn informatie over in-game zaken. Bijvoorbeeld hoe je een wapen inspawned, of hoe de redzone werkt.
 
 ## Officiële discord servers
 
