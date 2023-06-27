@@ -1,8 +1,5 @@
 # Redzone Ranking
 
-Vanaf vandaag zal er een ander ranked systeem zijn in de redzone. Met dit systeem zijn de rangen meer verdeeld en zijn de hoogste rangen moeilijker te halen. Ook is het makkelijker voor lagere rangen gemaakt."
-
-De rest is nog hetzelfde, hierbij een kleine uitleg hoe alles werkt:
 Je krijgt redzone MMR door kills te maken, ook krijg je MMR als je het lang overleefd (langer dan 10 minuten zal niet worden opgeteld). Ook krijg je meer punten door headshots te raken. 
 Je kunt ook MMR verliezen, dit gebeurd tijdens elke dood en is altijd hetzelfde aantal. In tegenstelling is de MMR die je krijgt per kill gebaseerd op welke rank je hebt, je krijgt bijvoorbeeld meer MMR per kill op de rang copper dan op de rang platinum. Hierdoor heeft het daadwerkelijk skill nodig om een hoge rang te behalen en houden. Het vast zitten op rang gaat dus niet meer gebeuren, dit is aan jezelf om te verbeteren.
 
