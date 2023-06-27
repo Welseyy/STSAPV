@@ -1,4 +1,4 @@
-site_name: STS APV
+site_name: STS
 site_author: Caspertjuh
 site_description: >-
   Shady's test server Informatie en APV
@@ -85,6 +85,7 @@ nav:
   - Voertuigenlijst: voertuigenlijst.md
   - Itemlijst: itemlijst.md
   - Redzoneinfo: redzoneinfo.md
+  - FAQ: faq.md
 
 # Customization
 extra:
