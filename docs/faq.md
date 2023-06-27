@@ -10,7 +10,10 @@ Typ in chat: /ontzichtbaarfix en dan zou u moeten reloggen.
 ```
 
 ``` ts title="Is het nou een rp of testserver?"
-We zijn zelf ook niet zeker waarom mensen denken dat het een roleplay server is als er "testserver" in de titel staat, maar het is en blijft een testserver. Er zijn natuurlijk wel regels en er zijn enkele roleplay aspecten, maar het blijft een testserver. Dus no value of life, powergaming, metagaming, new life rule etc gelden enkel op het eiland en bij overvallen. Daarentegen zijn er wel regels tegen kloters/perm abusers, denk aan random mensen vdmen, random mensen rdmen, random mensen spawnkillen etc.
+We zijn zelf ook niet zeker waarom mensen denken dat het een roleplay server is als er "testserver" in de titel staat, maar het is en blijft een testserver.
+Er zijn natuurlijk wel regels en er zijn enkele roleplay aspecten, maar het blijft een testserver.
+Dus no value of life, powergaming, metagaming, new life rule etc gelden enkel op het eiland en bij overvallen.
+Daarentegen zijn er wel regels tegen kloters/perm abusers, denk aan random mensen vdmen, random mensen rdmen, random mensen spawnkillen etc.
 ```
 
 ``` ts title="Ik zie de heletijd een rode gloed in mijn scherm."
@@ -26,7 +29,9 @@ Dit betekent dat de laatste 0-59 minuten van je ban nog niet over zijn, wacht de
 ```
 
 ``` ts title="Ik zit in de discord, maar er staat dat ik in de discord moet zitten om te kunnen joinen?"
-Sluit het bericht van de meldingen door op close te klikken, daarna klik je weer op de join knop zonder je FiveM af te sluiten. Als dit niet werkt, probeer dan je fivem te restarten en zorg ervoor dat je de discord app hebt openstaan tijdens het opstarten van fivem. Mogelijk zou je nog uw discord moeten verbinden met FiveM.
+Sluit het bericht van de meldingen door op close te klikken, daarna klik je weer op de join knop zonder je FiveM af te sluiten.
+Als dit niet werkt, probeer dan je fivem te restarten en zorg ervoor dat je de discord app hebt openstaan tijdens het opstarten van fivem.
+Mogelijk zou je nog uw discord moeten verbinden met FiveM.
 ```
 
 ``` ts title="Ik kan opeens geen wapens meer pakken met mijn “tab” knop."
@@ -38,5 +43,6 @@ Zorg ervoor dat je naar je graphics settings gaat, en ipv “directx10” je gam
 ```
 
 ``` ts title="Wanneer wordt het een RP server?"
-Niet, we hebben het ook nooit zo bedoeld, het blijft een testserver. Deze server is aangemaakt om te leren developen, dit is nogsteeds het hoofddoel. Alleen zijn er nu wat meer mensen waar we rekening mee moeten houden.
+Niet, we hebben het ook nooit zo bedoeld, het blijft een testserver. Deze server is aangemaakt om te leren developen, dit is nogsteeds het hoofddoel.
+Alleen zijn er nu wat meer mensen waar we rekening mee moeten houden.
 ```
