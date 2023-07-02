@@ -116,55 +116,63 @@
 ``` ts title="KMAR"
 
 /setjob {id} kmar 0 | Marechaussee - der 3e klasse
-/setjob {id} kmar 1 | Marechaussee - der 2e klasse
-/setjob {id} kmar 2 | Marechaussee - der 1e klasse
-/setjob {id} kmar 3 | Marechaussee - Wachtmeester
-/setjob {id} kmar 4 | Marechaussee - Wachtmeester der 1e klasse
-/setjob {id} kmar 5 | Marechaussee - Opperwachtmeester
-/setjob {id} kmar 6 | Marechaussee - Adjudant
-/setjob {id} kmar 7 | Marechaussee - Tweede-Luitenant
-/setjob {id} kmar 8 | Marechaussee - Eerste-Luitenant
-/setjob {id} kmar 9 | Marechaussee - Kapitein
-/setjob {id} kmar 10 | Marechaussee - Majoor
-/setjob {id} kmar 11 | Marechaussee - Luitenant-Kolonel 
-/setjob {id} kmar 12 | Marechaussee - Kolonel
-/setjob {id} kmar 13 | Marechaussee - HRB - Aspirant
-/setjob {id} kmar 14 | Marechaussee - HRB - Operator
-/setjob {id} kmar 15 | Marechaussee - HRB - Groepscommandant
-/setjob {id} kmar 16 | Marechaussee - HRB - Sectiecommandant
-/setjob {id} kmar 17 | Marechaussee - HRB - Commandant
-/setjob {id} kmar 18 | Marechaussee - Korporaals
-/setjob {id} kmar 19 | Marechaussee - Onderofficieren
-/setjob {id} kmar 20 | Marechaussee - Officieren
-/setjob {id} kmar 21 | Marechaussee - Majoor
-/setjob {id} kmar 22 | Marechaussee - Brigadegeneraal 
-/setjob {id} kmar 23 | Marechaussee - Generaal Majoor
-/setjob {id} kmar 24 | Marechaussee - Luitenant Generaal 
-/setjob {id} offkmar 0 | Marechaussee uitdienst - Der 3e klasse 
-/setjob {id} offkmar 1 | Marechaussee uitdienst - Der 2e klasse 
-/setjob {id} offkmar 2 | Marechaussee uitdienst - Der 1e klasse 
-/setjob {id} offkmar 3 | Marechaussee uitdienst - Wachtmeester 
-/setjob {id} offkmar 4 | Marechaussee uitdienst - Wachtmeester der 1e klasse 
-/setjob {id} offkmar 5 | Marechaussee uitdienst – Opperwachtmeester
-/setjob {id} offkmar 6 | Marechaussee uitdienst - Adjudant 
-/setjob {id} offkmar 7 | Marechaussee uitdienst - Tweede-Luitenant 
-/setjob {id} offkmar 8 | Marechaussee uitdienst - Eerste-Luitenant 
-/setjob {id} offkmar 9 | Marechaussee uitdienst – Kapitein 
-/setjob {id} offkmar 10 | Marechaussee uitdienst - Majoor 
-/setjob {id} offkmar 11 | Marechaussee uitdienst - Luitenant-Kolonel 
-/setjob {id} offkmar 12 | Marechaussee uitdienst - Kolonel 
-/setjob {id} offkmar 13 | Marechaussee uitdienst - HRB - Aspirant 
-/setjob {id} offkmar 14 | Marechaussee uitdienst - HRB - Operator 
-/setjob {id} offkmar 15| Marechaussee uitdienst - HRB - Groepscommandant 
-/setjob {id} offkmar 16 | Marechaussee uitdienst - HRB - Sectiecommandant 
-/setjob {id} offkmar 17 | Marechaussee uitdienst - HRB - Commandant 
-/setjob {id} offkmar 18 | Marechaussee uitdienst - Korporaals 
-/setjob {id} offkmar 19 | Marechaussee uitdienst - Onderofficieren 
-/setjob {id} offkmar 20 | Marechaussee uitdienst - Officieren 
-/setjob {id} offkmar 21 | Marechaussee uitdienst - Majoor 
-/setjob {id} offkmar 22 | Marechaussee uitdienst - Brigadegeneraal 
-/setjob {id} offkmar 23 | Marechaussee uitdienst - Generaal Majoor 
-/setjob {id} offkmar 24 | Marechaussee uitdienst - Luitenant Generaal
+/setjob {id} kmar 3 | Marechaussee - der 2e klasse
+/setjob {id} kmar 5 | Marechaussee - der 1e klasse
+/setjob {id} kmar 10 | Marechaussee - Wachtmeester
+/setjob {id} kmar 15 | Marechaussee - Wachtmeester der 1e klasse
+/setjob {id} kmar 20 | Marechaussee - Opperwachtmeester
+/setjob {id} kmar 25 | Marechaussee - Adjudant
+/setjob {id} kmar 30 | Marechaussee - Tweede-Luitenant
+/setjob {id} kmar 35 | Marechaussee - Eerste-Luitenant
+/setjob {id} kmar 40 | Marechaussee - Kapitein
+/setjob {id} kmar 45 | Marechaussee - Majoor
+/setjob {id} kmar 50 | Marechaussee - Luitenant-Kolonel 
+/setjob {id} kmar 60 | Marechaussee - Kolonel
+/setjob {id} kmar 70 | Marechaussee - HRB - Aspirant
+/setjob {id} kmar 71 | Marechaussee - HRB - Operator
+/setjob {id} kmar 72 | Marechaussee - HRB - Groepscommandant
+/setjob {id} kmar 73 | Marechaussee - HRB - Sectiecommandant
+/setjob {id} kmar 74 | Marechaussee - HRB - Commandant
+/setjob {id} kmar 80 | Marechaussee - Korporaals
+/setjob {id} kmar 81 | Marechaussee - Onderofficieren
+/setjob {id} kmar 82 | Marechaussee - Officieren
+/setjob {id} kmar 83 | Marechaussee - Majoor
+/setjob {id} kmar 90 | Marechaussee - DJI - Aspirant
+/setjob {id} kmar 91 | Marechaussee - DJI - Medior Beveiliger
+/setjob {id} kmar 92 | Marechaussee - DJI - Senior Beveiliger
+/setjob {id} kmar 93 | Marechaussee - DJI - Leiding
+/setjob {id} kmar 98 | Marechaussee - Brigadegeneraal 
+/setjob {id} kmar 99 | Marechaussee - Generaal Majoor 
+/setjob {id} kmar 100 | Marechaussee - Luitenant Generaal 
+/setjob {id} offkmar 0 | Marechaussee uitdienst - der 3e klasse
+/setjob {id} offkmar 3 | Marechaussee uitdienst - der 2e klasse
+/setjob {id} offkmar 5 | Marechaussee uitdienst - der 1e klasse
+/setjob {id} offkmar 10 | Marechaussee uitdienst - Wachtmeester
+/setjob {id} offkmar 15 | Marechaussee uitdienst - Wachtmeester der 1e klasse
+/setjob {id} offkmar 20 | Marechaussee uitdienst - Opperwachtmeester
+/setjob {id} offkmar 25 | Marechaussee uitdienst - Adjudant
+/setjob {id} offkmar 30 | Marechaussee uitdienst - Tweede-Luitenant
+/setjob {id} offkmar 35 | Marechaussee uitdienst - Eerste-Luitenant
+/setjob {id} offkmar 40 | Marechaussee uitdienst - Kapitein
+/setjob {id} offkmar 45 | Marechaussee uitdienst - Majoor
+/setjob {id} offkmar 50 | Marechaussee uitdienst - Luitenant-Kolonel 
+/setjob {id} offkmar 60 | Marechaussee uitdienst - Kolonel
+/setjob {id} offkmar 70 | Marechaussee uitdienst - HRB - Aspirant
+/setjob {id} offkmar 71 | Marechaussee uitdienst - HRB - Operator
+/setjob {id} offkmar 72 | Marechaussee uitdienst - HRB - Groepscommandant
+/setjob {id} offkmar 73 | Marechaussee uitdienst - HRB - Sectiecommandant
+/setjob {id} offkmar 74 | Marechaussee uitdienst - HRB - Commandant
+/setjob {id} offkmar 80 | Marechaussee uitdienst - Korporaals
+/setjob {id} offkmar 81 | Marechaussee uitdienst - Onderofficieren
+/setjob {id} offkmar 82 | Marechaussee uitdienst - Officieren
+/setjob {id} offkmar 83 | Marechaussee uitdienst - Majoor
+/setjob {id} offkmar 90 | Marechaussee uitdienst - DJI - Aspirant
+/setjob {id} offkmar 91 | Marechaussee uitdienst - DJI - Medior Beveiliger
+/setjob {id} offkmar 92 | Marechaussee uitdienst - DJI - Senior Beveiliger
+/setjob {id} offkmar 93 | Marechaussee uitdienst - DJI - Leiding
+/setjob {id} offkmar 98 | Marechaussee uitdienst - Brigadegeneraal 
+/setjob {id} offkmar 99 | Marechaussee uitdienst - Generaal Majoor 
+/setjob {id} offkmar 100 | Marechaussee uitdienst - Luitenant Generaal 
 ```
 
 
