@@ -173,7 +173,7 @@ De beslissing van een stafflid betreft alle bovenstaande en overige situaties is
 ### Artikel 28 - Scammen/oplichting:
 1. Het oplichten van mensen die exclusieve items in bezit hebben.
 2. Het leaken van spawncodes van exclusieve items of voertuigen.
-3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met minimaal de 2e catogorie en maximaal de 5e catogorie.
+3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met minimaal de 2e categorie en maximaal de 5e categorie.
 
 ### Samensluiting
 1. Deze regels zijn opgesteld op 5/22/23
