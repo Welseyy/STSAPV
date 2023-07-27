@@ -116,8 +116,10 @@ De beslissing van een stafflid betreft alle bovenstaande en overige situaties is
 2. Confisqueren van items / wapens zonder enkele reden / roleplay. Dit is alleen toegestaan waarin je in een duidelijk goede roleplay zit. Tijdens het confisqueren hoor je te vermelden wat je aan het doen bent.
 3. Gang oorlogen mogen niet zomaar gestart worden. Dit moet door het bestuur van de gangs besproken worden. (Hier valt invallen etc. ook onder!)
 4. Je mag een officiële groepering niet zomaar na doen, dit is alleen toegestaan met een goede en duidelijke roleplay.
-5. Wanneer de regel zoals in lid 1 of 2 overtreden wordt zal dit bestraft worden met een straf volgens minimaal de 1e categorie en maximaal de 4e categorie.
-6. Wanneer de regel zoals in lid 3 of 4 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
+5. Het vluchten op het gang terrein tijdens een goed en duidelijk roleplay scenario is niet toegestaan. mits dit wel gebeurd hebben de 
+   anderen mensen het recht om binnen tevallen.
+6. Wanneer de regel zoals in lid 1 of 2 overtreden wordt zal dit bestraft worden met een straf volgens minimaal de 1e categorie en maximaal de 4e categorie.
+7. Wanneer de regel zoals in lid 3, 4 of 5 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 
 ### Artikel 19 -  Terrein Claimen:
 1. Wanneer een officiele gang een terrein bezit mag deze niet door een andere groep of persoon geclaimd worden.
@@ -126,7 +128,9 @@ De beslissing van een stafflid betreft alle bovenstaande en overige situaties is
 4. Wanneer de regels zoals in lid 1, 2 of 3 overtreden worden, zal dit bestraft worden met een straf volgens minimaal de 3e categorie.
 
 ### Artikel 20 -  Uitlokken van officiële gangs:
-1. Nep meldingen maken bij een terrein van een officiële groepering zodat politie of een andere groepering hier iets mee te maken krijgt. Als dit wel gebeurd, word er gestraft met de 1e categorie.
+1. Nep meldingen maken bij een terrein van een officiële groepering zodat politie of een andere groepering hier iets mee te maken krijgt.
+2. Als officiële/onofficiële groep een officiële groepering opwachten bij hun terrein om hun dan te ontvoeren of te beschieten.
+3. Wanneer lid 1 & 2 worden overtreden zal dit bestraft worden met maximaal de 2e categorie.
 
 ### Artikel 21 - Combatlogging:
 1. Indien u in een staffzaak zit en besluit uit de stad te gaan zal dit een straf opleveren van maximaal de 1e categorie.
@@ -144,8 +148,12 @@ De beslissing van een stafflid betreft alle bovenstaande en overige situaties is
 
 ### Artikel 24 - Bedreiging:
 1. Het dreigen met privégegevens.
-2. Het Dreigen met ip's/dreigen met booten (ddossen).
-3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met een straf volgens de 7e categorie.
+2. Het dreigen met ip's/dreigen met booten (ddossen).
+3. Het delen van persoonlijke informatie van spelers/staffleden.
+4. Het (be)dreigen met acties en/of handelingen die invloed kunnen hebben in het echte leven.
+5. Wanneer de regel zoals in lid 1, 2 of 3 overtreden wordt, zal dit bestraft worden met een straf volgens de 7e categorie.
+6. Wanneer de regel zoals in lid 4 overtreden wordt, zal dit bestraft worden met een straf volgens minimaal de 1e categorie en maximaal 
+   de 5e categorie.
 
 ### Artikel 25  - Erotische RP Scenario's:
 1. Het is ten alle tijden verboden om in een scenario seksuele roleplay neer te zetten.
@@ -162,6 +170,11 @@ De beslissing van een stafflid betreft alle bovenstaande en overige situaties is
 4. Wanneer lid 1 & 2 worden overtreden zal dit gestraft worden met maximaal de 3e categorie.
 5. Wanneer lid 3 wordt overtreden zal dit gestraft worden met een straf van de 1e categorie samen met een staffstrike.
 
+### Artikel 28 - Scammen/oplichting:
+1. Het oplichten van mensen die exclusieve items in bezit hebben.
+2. Het leaken van spawncodes van exclusieve items of voertuigen.
+3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met minimaal de 2e catogorie en maximaal de 5e catogorie.
+
 ### Samensluiting
 1. Deze regels zijn opgesteld op 5/22/23
-2. Deze regels zijn bewerkt op 5/22/23
+2. Deze regels zijn bewerkt op 7/27/2023
