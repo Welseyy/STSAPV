@@ -144,7 +144,6 @@ Bugatti Chiron PurSport;pursport;4000000;bugatti
 Bugatti Chiron;chiron17;3500000;bugatti
 Bugatti Chiron Sport;bvit;6000000;bugatti
 Cadillac ATS-V Coupe;cats;54600;cadillac
-Changgang Bus;84563452345;1;changgang
 Chevrolet ZL1;zl12017;127000;chevrolet
 Chevrolet Camaro Widebody;rmodzl1;174000;chevrolet
 Chevrolet Kustom;kustom;59000;chevrolet
@@ -153,7 +152,6 @@ Panto;panto;22500;compacts
 Corvette C7R;c7r;600000;corvette
 Corvette C8;c8;600000;corvette
 Corvette C7;c7;540000;corvette
-Mercedes G63;445657568573;1;crips
 Cupra Formenter;FormenterTDB;143000;cupra
 Cyberpunk Quadra V;rmodquadra;890200;cyberpunk
 Dodge Charger 69;rmodcharger69;60000;dodge
@@ -166,7 +164,6 @@ Jeep Trackhawk;rmodjeep;274900;driveby
 Dodge Hellcat;hellcatlb;128000;driveby
 Ducati Diavel;diavel;85700;ducati
 Ducati Multistrada 2015 ;dm1200;62500;ducati
-Handhaving Vito;1465674564356;1;elmencho
 Ferrari F50;ff50;540000;ferrari
 Ferrari LaFerrari;laferrari;5400000;ferrari
 Ferrari F12 TDF 19;f12tdf;379000;ferrari
@@ -253,9 +250,6 @@ Koenigsegg Gemera;gemera;17500000;koeningsegg
 Koeningsegg CCX;ccx;3245000;koeningsegg
 KTM X Bow;ktmx;210000;ktm
 KTM Super Duke R 1290;ksd;98000;ktm
-Nissan GTR;78465345353;1;kto
-Lamborghini Huracan LW;67645645534;1;kto
-BMW M5;6564353258;1;kto
 Lada 2107;lada2107;45000;lada
 Lamborghini SC18;sc18;775500;lamborghini
 Lamborghini Sian;sian;1750000;lamborghini
@@ -282,16 +276,6 @@ Lamborhgini Sian R;rmodsianr;900000;lamborghini
 Lexus LC500;lc500;167000;lexus
 Lexus LX570;wald2018;138540;lexus
 Lexus LFA;rmodlfa;155610;lexus
-Mitsubishi Lancer Evolution IX Voltex;64534532434;1;lospollos
-Audi RS6 Hycade;54663455345;1;lospollos
-Rimac Nevera;46534532443;1;lospollos
-Foodtruck;8635325623;1;lospollos
-Volkswagen Golf 8R;6465354523;1;lospollos
-Audi RS6;6786574563;1;lospollos
-Vapid Motorhome;345345656544;1;lospollos
-Lamborghini Performante;45634532432;1;lospollos
-Brabus Rocket 900;345345423432;1;lospollos
-Pagani Huayra Dinastia;4645563445;1;lospollos
 Maserati Quattroporte GTS;mqgts;276000;maserati
 Maserati Granturismo;mgrantur2010;288000;maserati
 2004 Maserati MC-12;gxmc12;650000;maserati
@@ -375,11 +359,6 @@ Phoenix;phoenix;25000;muscle
 Virgo;virgo3;28000;muscle
 Faction;faction2;60000;muscle
 Voodoo;voodoo;15000;muscle
-Bugatti Atlantic;45874563532;1;ndrangheta
-Lotus Evija;67455634423;1;ndrangheta
-Ferrari 488 Mansory;745634534533;1;ndrangheta
-Ferrari SF90;463453243435;1;ndrangheta
-Nissan GTR Libertywalk;78965245234;1;ndrangheta
 Nissan Skyline 34;rmodskyline34;35000;nissan
 Nissan GTI-R;nisgtir;25000;nissan
 Nissan 350 Pandem;rmodz350pandem;89900;nissan
@@ -401,7 +380,6 @@ Pagani Zonda R;zondar;4500000;pagani
 Pagani Zonda Cinque;zondacinque;3200000;pagani
 Pagani Gcmimola;gcmimola;3000000;pagani
 Pagani Huayra;bc;3000000;pagani
-Mercedes-Benz GT63;56734523445;1;peakyblinders
 Plymouth GTX;71gtx;65400;plymouth
 Porsche Taycan;taycan;256000;porsche
 Porsche 911 R;911r;510000;porsche
@@ -472,15 +450,5 @@ Volkswagen Caddy;banshee;18500;volkswagen
 Volvo XC90;volvoxc90;127000;volvo
 Volvo S60;s60pole;74500;volvo
 Mercedes Vrachtwagen;hauler;267000;vrachtwagens
-Audi RS E-Tron GT Prior Design;94563456361;1;whyos
-Audi R8;8134131978;1;whyos
-Mercedes G63 2019;845234241;1;whyos
-Volvo XC90;845634523453;1;whyos
-Audi RS6;1236564565;1;whyos
-Audi RS6 SP Design;983452342146;1;whyos
-Rufus RS6;945563423;1;whyos
-Lamborghini Mansory Carbonado Apertos;6867435563453;1;whyos
-Rolls Royce Cullinan Mansory;687456345253;1;whyos
-Toyota Supra MK4 Hycade;257745322465;1;whyos
 Zeekr 001;zeekr001;234000;zeekr
 ```
