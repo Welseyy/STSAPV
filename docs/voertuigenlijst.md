@@ -40,6 +40,20 @@ Hieronder vindt je de voertuigenlijst
     unmarkedrange  'Unmarked Range Rover'
     unmarkedrs3  'Unmarked Audi RS3'
     unmarkedx5m  'Unmarked BMW X5M'
+    arrestatiebus  'Arrestatie Bus'
+    bearcat 'Bearcat'
+    dsimotor 'DSI Motor'
+    kmarastra 'Kmar Opel Astra'
+    kmart6  'Kmar Touran'
+    politiegolf  'Volkswagen Golf'
+    politielandcruiser  'Landcruiser'
+    politiemotorzwaar2  'Zware Motor'
+    politiepassat  'Volkswagen Passat'
+    politiesprinter  'Mercedes Sprinter'
+    unmarkedbmwg31  'BMW G31 Unmarked'
+    unmarkedcla  'Mercedes CLA Unmarked'
+    unmarkedtesla  'Tesla Unmarked'
+    unmarkedvito  'Mercedes Vito Unmarked'
 ```
 
 
