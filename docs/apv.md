@@ -17,7 +17,7 @@
 Enige vorm van aimbot, ESP, mod menu's en dergelijke zal een straf opleveren minimaal van de 6e categorie en maximaal van de 9e categorie.
 
 ### Artikel 2 - Ban omzeilen:
-Het omzeilen van je ban zowel op de discord als op de server zal een straf opleveren van de 7e categorie.
+Het omzeilen van je ban zowel op de discord als op de server zal een straf opleveren van de 9e categorie.
 
 ### Artikel 3 - RDM:
 1. Het killen van mensen die niet betrokken zijn bij jouw schietpartij en ook niet betrokken willen zijn zal een straf opleveren van de 1e categorie.
@@ -32,7 +32,7 @@ Het omzeilen van je ban zowel op de discord als op de server zal een straf oplev
 3. Noclippen in een gang huis van een officiële groepering zal een straf opleveren van de 1e categorie.
 
 ### Artikel 5 - Schelden met hedendaagse ziektes:
-Het schelden met ziektes zoals kanker en dergelijke is streng tegen ons beleid, en zal bestraft worden met een straf van maximaal de 7e categorie. Normaliter hangt hier een straf van minimaal de 5e categorie aan.
+Het schelden met ziektes zoals kanker en dergelijke is streng tegen ons beleid, en zal bestraft worden met een straf van maximaal de 8e categorie. Normaliter hangt hier een straf van minimaal de 5e categorie aan.
 
 ### Artikel 6 - Kleinerend gedrag/spelers belachelijk maken:
 1. Mensen belachelijk maken/denigreren is verboden en zal bestraft worden met een straf van maximaal de 4e categorie.
@@ -74,10 +74,10 @@ De beslissing van een stafflid betreft alle bovenstaande en overige situaties is
 3. Hij/zij die lid 2 uitvoert met een voertuig dat veel "lichter" of kleiner is als het andere voertuig dat "gepit" word, bijvoorbeeld Sedan vs SUV op het eiland, zal ook gestraft worden volgens de 1e categorie.
 
 ### Artikel 12 - Staff Abuse:
-1. Een stafflid die aan het roleplayen is, mag zijn staff rechten (godmode, player names, etc) niet gebruiken op het eiland. Dit mag alleen als dit stafflid er bezig is met staffzaken. Als dit wel word gebruikt zal dit lid gestraft worden volgens de 1e categorie.
-2. Een stafflid mag zijn eigen roleplay scenario niet oppakken als staffzaak op het eiland. Als dit wel word gedaan, zal dit lid gestraft worden volgens de 1e categorie.
+1. Een stafflid die aan het roleplayen is, mag zijn staff rechten (godmode, player names, etc) niet gebruiken op het eiland. Dit mag alleen als dit stafflid er bezig is met staffzaken. Als dit wel word gebruikt zal dit lid gestraft worden volgens de 2e categorie.
+2. Een stafflid mag zijn eigen roleplay scenario niet oppakken als staffzaak op het eiland. Als dit wel word gedaan, zal dit lid gestraft worden volgens de 2e categorie.
 3. Een stafflid mag zijn permissies niet gebruiken in de Redzone.
-4. Als een stafflid zich niet aan lid 1, 2 & 3 houd, wordt er gestraft met de 1e categorie. Als dit vaker voorkomt bij een stafflid, zal dit door management worden opgepakt en zullen hiervoor andere consequenties voor worden gegeven.
+4. Als een stafflid zich niet aan lid 1, 2 & 3 houd, wordt er gestraft met de 2e categorie. Als dit vaker voorkomt bij een stafflid, zal dit door management worden opgepakt en zullen hiervoor andere consequenties voor worden gegeven.
 
 ### Artikel 13 - Overval Regels:
 1. Hij/zij die meedoet aan een overval op een juwelier, bank of winkel waarvan een officiële politiemelding is geweest, dient mee te gaan in de roleplay. Hiermee word bedoeld; Je houd je aan New life rule (stoppen met het scenario zodra je dood bent), No value of life, RDM, VDM (pitten onder de 80), en new life rule (niet meteen opstaan en spawnkillen).
