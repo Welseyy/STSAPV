@@ -1,18 +1,20 @@
 # Algemene Plaatselijke Verordening STS
 
 ### Straffen:
-- Cat 1: Warning tot 2 uur ban.
+- Cat 1: Warning
 - Cat 2: Ban 1 dag
 - Cat 3: Ban 3 dagen
 - Cat 4: Ban 1 week
 - Cat 5: Ban 2 weken
-- Cat 6: Permanente ban
-- Cat 7: Permanente ban + discord ban
+- Cat 6: Ban 30 dagen
+- Cat 7: Ban 60 dagen
+- Cat 8: Permanente ban
+- Cat 9: Permanente ban + discord ban
 - Straffen kunnen verhoogd worden bij het uitloggen tijdens het aangesproken worden op je gedrag, ook kan het apv ten alle tijde worden aangepast.
 
 ### Artikel 1 - Exploits en cheats:
 
-Enige vorm van aimbot, ESP, mod menu's en dergelijke zal een straf opleveren van de 7e categorie.
+Enige vorm van aimbot, ESP, mod menu's en dergelijke zal een straf opleveren minimaal van de 6e categorie en maximaal van de 9e categorie.
 
 ### Artikel 2 - Ban omzeilen:
 Het omzeilen van je ban zowel op de discord als op de server zal een straf opleveren van de 7e categorie.
@@ -20,8 +22,8 @@ Het omzeilen van je ban zowel op de discord als op de server zal een straf oplev
 ### Artikel 3 - RDM:
 1. Het killen van mensen die niet betrokken zijn bij jouw schietpartij en ook niet betrokken willen zijn zal een straf opleveren van de 1e categorie.
 2. Dit continu doen, en op meerdere mensen word opgevat als "MassRDM/VDM" en zal een straf opleveren van de 2e categorie.
-3. Iemand "spawnkillen" zal een straf opleveren van de 4e categorie.
-4. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd op het eiland zal gestraft worden volgens de 2e categorie.
+3. Iemand "spawnkillen" zal een straf opleveren van de 2e categorie.
+4. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd op het eiland zal gestraft worden volgens de 1e categorie.
 5. Als iemand op het eiland loopt zonder wapen vast, en niet in een scenario zit met een andere persoon/groepering, mag deze persoon niet vermoord worden. Dit word gezien als een ongeldige reden en zal worden bestraft volgens de 1e categorie.|
 
 ### Artikel 4 - Permissions abuse:
