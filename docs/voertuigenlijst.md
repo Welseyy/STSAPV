@@ -54,6 +54,9 @@ Hieronder vindt je de voertuigenlijst
     unmarkedcla  'Mercedes CLA Unmarked'
     unmarkedtesla  'Tesla Unmarked'
     unmarkedvito  'Mercedes Vito Unmarked'
+    polaudia6 'Audi A6 Unmarked'
+    kmarlandcruiser 'KMAR Landcruiser'
+    eodcrafter 'Ministerie Van Defensie Busje'
 ```
 
 
@@ -63,7 +66,11 @@ Hieronder vindt je de voertuigenlijst
 ``` sh title="Ambulance_Voertuigen"
     eclass
     ambuam  
-    ambu90    
+    ambu90
+    dierenambu
+    djisprinter
+    knrmraptor
+    knrmam
 ```
 
 
@@ -76,6 +83,9 @@ Hieronder vindt je de voertuigenlijst
     tundra
     towtruck 
     brisa_mvito
+    anwbvolvo
+    anwbvito
+    
 ```
 
 
