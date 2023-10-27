@@ -25,8 +25,7 @@ Het omzeilen van je ban zowel op de discord als op de server zal een straf oplev
 
 ### Artikel 4 - Permissions abuse:
 1. Het misbruiken van je f6 menu door bijvoorbeeld je als staff te opstellen (rdmers boeien etc.) of mensen te boeien die dat niet willen zal een straf opleveren van de 3e of 4e categorie.
-2. Je permissies misbruiken en daarmee mensen gaan reviven, of autos spammen is ook verboden en zal een straf opleveren van maximaal de 6e categorie.
-3. Noclippen in een gang huis van een officiële groepering zal een straf opleveren van de 1e categorie.
+2. Noclippen in een gang huis van een officiële groepering zal een straf opleveren van de 1e categorie.
 
 ### Artikel 5 - Schelden met hedendaagse ziektes:
 Het schelden met ziektes zoals kanker en dergelijke is streng tegen ons beleid, en zal bestraft worden met een straf van maximaal de 8e categorie. Normaliter hangt hier een straf van minimaal de 5e categorie aan.
