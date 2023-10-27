@@ -21,10 +21,7 @@ Het omzeilen van je ban zowel op de discord als op de server zal een straf oplev
 
 ### Artikel 3 - RDM:
 1. Het killen van mensen die niet betrokken zijn bij jouw schietpartij en ook niet betrokken willen zijn zal een straf opleveren van de 1e categorie.
-2. Dit continu doen, en op meerdere mensen word opgevat als "MassRDM/VDM" en zal een straf opleveren van de 2e categorie.
-3. Iemand "spawnkillen" zal een straf opleveren van de 2e categorie.
-4. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd op het eiland zal gestraft worden volgens de 1e categorie.
-5. Als iemand op het eiland loopt zonder wapen vast, en niet in een scenario zit met een andere persoon/groepering, mag deze persoon niet vermoord worden. Dit word gezien als een ongeldige reden en zal worden bestraft volgens de 1e categorie.|
+2. Als iemand op het eiland loopt zonder wapen vast, en niet in een scenario zit met een andere persoon/groepering, mag deze persoon niet vermoord worden. Dit word gezien als een ongeldige reden en zal worden bestraft volgens de 1e categorie.|
 
 ### Artikel 4 - Permissions abuse:
 1. Het misbruiken van je f6 menu door bijvoorbeeld je als staff te opstellen (rdmers boeien etc.) of mensen te boeien die dat niet willen zal een straf opleveren van de 3e of 4e categorie.
