@@ -21,19 +21,23 @@ Het omzeilen van je ban zowel op de discord als op de server zal een straf oplev
 
 ### Artikel 3 - RDM:
 1. Het killen van mensen die niet betrokken zijn bij jouw schietpartij en ook niet betrokken willen zijn zal een straf opleveren van de 1e categorie.
-2. Als iemand op het eiland loopt zonder wapen vast, en niet in een scenario zit met een andere persoon/groepering, mag deze persoon niet vermoord worden. Dit word gezien als een ongeldige reden en zal worden bestraft volgens de 1e categorie.|
+2. • 6 RDM Sancties = 1 dag ban
+   • 10 RDM Sancties = 2 dagen ban
+   • 15 RDM Sancties = 3 dagen ban
+   • 20 RDM Sancties = 4 dagen ban 
+3. Als iemand op het eiland loopt zonder wapen vast, en niet in een scenario zit met een andere persoon/groepering, mag deze persoon niet vermoord worden. Dit word gezien als een ongeldige reden en zal worden bestraft volgens de 1e categorie.|
 
 ### Artikel 4 - Permissions abuse:
-1. Het misbruiken van je f6 menu door bijvoorbeeld je als staff te opstellen (rdmers boeien etc.) of mensen te boeien die dat niet willen zal een straf opleveren van de 3e of 4e categorie.
+1. Het misbruiken van je f6 menu door bijvoorbeeld je als staff te opstellen (rdmers boeien etc.) of mensen te boeien die dat niet willen zal een straf opleveren van de 2e of 3e categorie.
 2. Noclippen in een gang huis van een officiële groepering zal een straf opleveren van de 1e categorie.
 
 ### Artikel 5 - Schelden met hedendaagse ziektes:
-Het schelden met ziektes zoals kanker en dergelijke is streng tegen ons beleid, en zal bestraft worden met een straf van maximaal de 8e categorie. Normaliter hangt hier een straf van minimaal de 5e categorie aan.
+Het schelden met ziektes zoals kanker en dergelijke is streng tegen ons beleid, en zal bestraft worden met een straf van maximaal de 6e categorie. Je excuses aan bieden door een vrijwillige donatie te doen aan het KWF resulteert in het weghalen van de verbanning. Bij meerdere sancties kan er voor gekozen worden de excuses niet te accepteren.
 
 ### Artikel 6 - Kleinerend gedrag/spelers belachelijk maken:
 1. Mensen belachelijk maken/denigreren is verboden en zal bestraft worden met een straf van maximaal de 4e categorie.
 Enkele voorbeelden zijn, jongere medespelers belachelijk maken en familieleden betrekken in discussies.
-2. Vrouwontvriendelijk/manonvriendelijk gedrag wordt bestraft met een maximale straf van de 6e categorie, wanneer er heftige spam plaatsvind, een normale ban zal rond de 4e tot 5e categorie liggen.
+2. Vrouwontvriendelijk/manonvriendelijk gedrag wordt bestraft met een maximale straf van de 5e categorie, wanneer er heftige spam plaatsvind, een normale ban zal rond de 3e tot 4e categorie liggen.
 
 ### Artikel 7 - Spammen:
 1. In deepweb kanalen en berichten expres berichten achter elkaar blijft sturen zonder reden.
@@ -50,30 +54,16 @@ Enkele voorbeelden zijn, jongere medespelers belachelijk maken en familieleden b
 
 ### Artikel 9 - Value of life:
 1. Je hoeft je niet aan Value of Life te houden als je dit niet wilt.
-2. Hij/zij die geen waarde hecht aan zijn karakter op het eiland zal gestraft worden met een straf volgens de 2e categorie.
-3. Enkele voorbeelden van “no value of life” op het eiland:
-zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
-Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden.
-Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt, valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
-Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life. Wanneer jij van dat persoon weet dat hij/zij een vuur-, steek- of slagwapen op zak heeft, zal je ervoor moeten zorgen hem/haar te overmeesteren door enige vorm van bedreigende middelen toe te passen.
-Het valt onder no value of life om de noodknop in te drukken terwijl iemand een vuurwapen, steekwapen of slagwapen op je richt.
-Het is geen no value of life indien een persoon in een voertuig met deuren zit niet meewerkt, als je deze van de buitenkant bedreigt met een steek- of slagwapen.
-Ook valt het niet onder no value of life om een vuurwapen te trekken als je bedreigd wordt met een steek- of slagwapen.
-De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend.
 
 ### Artikel 10 - VDM:
-1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden of zijn voertuig bewust als wapen gebruikt, zal gestraft worden volgens de 1e categorie.
-2. Hij/zij die op een ander voertuig inrijdt met de intentie te "pitten" met een snelheid hoger dan ongeveer 125 km/u of op onverantwoorde wijze op het eiland, zal worden gezien als onrealistisch en dus gestraft worden volgens de 1e categorie.
-3. Hij/zij die lid 2 uitvoert met een voertuig dat veel "lichter" of kleiner is als het andere voertuig dat "gepit" word, bijvoorbeeld Sedan vs SUV op het eiland, zal ook gestraft worden volgens de 1e categorie.
+1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden zal gestraft worden volgens de 1e categorie.
 
 ### Artikel 11 - Staff Abuse:
-1. Een stafflid die aan het roleplayen is, mag zijn staff rechten (godmode, player names, etc) niet gebruiken op het eiland. Dit mag alleen als dit stafflid er bezig is met staffzaken. Als dit wel word gebruikt zal dit lid gestraft worden volgens de 2e categorie.
-2. Een stafflid mag zijn eigen roleplay scenario niet oppakken als staffzaak op het eiland. Als dit wel word gedaan, zal dit lid gestraft worden volgens de 2e categorie.
-3. Een stafflid mag zijn permissies niet gebruiken in de Redzone.
-4. Als een stafflid zich niet aan lid 1, 2 & 3 houd, wordt er gestraft met de 2e categorie. Als dit vaker voorkomt bij een stafflid, zal dit door management worden opgepakt en zullen hiervoor andere consequenties voor worden gegeven.
+1. Een stafflid mag zijn permissies niet gebruiken in de Redzone.
+2. Als een stafflid zich niet aan lid 1, 2 & 3 houd, wordt er gestraft met de 2e categorie. Als dit vaker voorkomt bij een stafflid, zal dit door management worden opgepakt en zullen hiervoor andere consequenties voor worden gegeven.
 
 ### Artikel 12 - Overval Regels:
-1. Hij/zij die meedoet aan een overval op een juwelier, bank of winkel waarvan een officiële politiemelding is geweest, dient mee te gaan in de roleplay. Hiermee word bedoeld; Je houd je aan New life rule (stoppen met het scenario zodra je dood bent), No value of life, RDM, VDM (pitten onder de 80), en new life rule (niet meteen opstaan en spawnkillen).
+1. Hij/zij die meedoet aan een overval op een juwelier, bank of winkel waarvan een officiële politiemelding is geweest, dient mee te gaan in de roleplay. Hiermee word bedoeld; Je houd je aan New life rule (stoppen met het scenario zodra je dood bent).
 2. Het is niet toegestaan om te mengen met andermans roleplay scenario bij een overval, ook is het niet toegestaan om de politie dood te schieten om een overval van iemand anders te counteren.
 3. Zodra alle politie/criminelen dood zijn gegaan, eindigt het scenario.
 4. Wanneer de regel zoals in lid 1 of 2 of 3 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
@@ -81,10 +71,7 @@ De beslissing van een stafflid betreft alle bovenstaande en overige situaties is
 6. Wanneer de regel zoals in lid 5 overtreden wordt zal dit bestraft worden met een straf volgens de 3e categorie en een staff waarschuwing.
 
 ### Artikel 13 - New Life Rule:
-1. Hij/zij die dood is gegaan tijdens een shootout of een roleplay scenario, mag zijn spawnprotection niet gebruiken om iemand anders te kunnen spawnkillen zodra je jezelf hebt gerevived.
-2. Je hoeft officieel niks te vergeten als je dood bent gegaan, tenzij je dit zelf wilt.
-3. Als je bent vermoord door iemand anders op het eiland, mag je 1 minuut niet meer meedoen met dat scenario.
-4. Wanneer de regel zoals in lid 1 of 2 of 3 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
+1. Je hoeft officieel niks te vergeten als je dood bent gegaan, tenzij je dit zelf wilt.
 
 ### Artikel 14 - Verstoren van een RP:
 
@@ -108,19 +95,18 @@ De beslissing van een stafflid betreft alle bovenstaande en overige situaties is
 
 ### Artikel 17 -  Algemene regels voor betaalde gangs:
 1. Het misbruik maken van je F6-menu door middel van onrealistische acties uit te voeren zoals onder beschreven.
-2. Confisqueren van items / wapens zonder enkele reden / roleplay. Dit is alleen toegestaan waarin je in een duidelijk goede roleplay zit. Tijdens het confisqueren hoor je te vermelden wat je aan het doen bent.
-3. Gang oorlogen mogen niet zomaar gestart worden. Dit moet door het bestuur van de gangs besproken worden. (Hier valt invallen etc. ook onder!)
-4. Je mag een officiële groepering niet zomaar na doen, dit is alleen toegestaan met een goede en duidelijke roleplay.
-5. Het vluchten op het gang terrein tijdens een goed en duidelijk roleplay scenario is niet toegestaan. mits dit wel gebeurd hebben de 
+2. Gang oorlogen mogen niet zomaar gestart worden. Dit moet door het bestuur van de gangs besproken worden. (Hier valt invallen etc. ook onder!)
+3. Je mag een officiële groepering niet zomaar na doen, dit is alleen toegestaan met een goede en duidelijke roleplay.
+4. Het vluchten op het gang terrein tijdens een goed en duidelijk roleplay scenario is niet toegestaan. mits dit wel gebeurd hebben de 
    anderen mensen het recht om binnen tevallen.
-6. Wanneer de regel zoals in lid 1 of 2 overtreden wordt zal dit bestraft worden met een straf volgens minimaal de 1e categorie en maximaal de 4e categorie.
-7. Wanneer de regel zoals in lid 3, 4 of 5 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
+5. Wanneer de regel zoals in lid 1 of 2 overtreden wordt zal dit bestraft worden met een straf volgens minimaal de 1e categorie en maximaal de 4e categorie.
+6. Wanneer de regel zoals in lid 3, 4 of 5 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 
 ### Artikel 18 -  Terrein Claimen:
 1. Wanneer een officiele gang een terrein bezit mag deze niet door een andere groep of persoon geclaimd worden.
 2. Wanneer je weggestuurd word op een gangterrein door iemand die dit gangterrein bezit dien je weg te gaan.
 3. Nep meldingen maken bij een terrein van een officiële groepering zodat politie of een andere groepering hier iets mee te maken krijgt is niet toegestaan.
-4. Wanneer de regels zoals in lid 1, 2 of 3 overtreden worden, zal dit bestraft worden met een straf volgens minimaal de 3e categorie.
+4. Wanneer de regels zoals in lid 1, 2 of 3 overtreden worden, zal dit bestraft worden met een straf volgens minimaal de 2e categorie. Mocht de sanctie vaker voorkomen, kan het stafflid beslissen om te straffen volgens de 3e categorie.
 
 ### Artikel 19 -  Uitlokken van officiële gangs:
 1. Nep meldingen maken bij een terrein van een officiële groepering zodat politie of een andere groepering hier iets mee te maken krijgt.
@@ -160,16 +146,15 @@ De beslissing van een stafflid betreft alle bovenstaande en overige situaties is
 
 ### Artikel 26 - Officiële Groeperingen:
 1. Tijdens een Roleplay scenario is het toegestaan om binnen te vallen mits dit overlegt is met beide partijen.
-2. Tijdens een Roleplay scenario van 2 of meerdere Officiële Groeperingen is het verboden om te noclippen.
-3. Tijdens een Roleplay scenario van 2 of meerdere Officiële Groeperingen mag een Stafflid die betrokken is bij dit scenario niet zijn eigen staffzaak oppakken.
-4. Wanneer lid 1 & 2 worden overtreden zal dit gestraft worden met maximaal de 3e categorie.
-5. Wanneer lid 3 wordt overtreden zal dit gestraft worden met een straf van de 1e categorie samen met een staffstrike.
+2. Tijdens een Roleplay scenario van 2 of meerdere Officiële Groeperingen mag een Stafflid die betrokken is bij dit scenario niet zijn eigen staffzaak oppakken.
+3. Wanneer lid 1 & 2 worden overtreden zal dit gestraft worden met maximaal de 3e categorie.
+4. Wanneer lid 2 wordt overtreden zal dit gestraft worden met een straf van de 1e categorie samen met een staffstrike.
 
 ### Artikel 27 - Scammen/oplichting:
 1. Het oplichten van mensen die exclusieve items in bezit hebben.
 2. Het leaken van spawncodes van exclusieve items of voertuigen.
-3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met minimaal de 2e categorie en maximaal de 5e categorie.
+3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met minimaal de 2e categorie en maximaal de 3e categorie.
 
 ### Samensluiting
 1. Deze regels zijn opgesteld op 22/5/23
-2. Deze regels zijn bewerkt op 27/10/2023
+2. Deze regels zijn bewerkt op 1/11/2023
