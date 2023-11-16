@@ -16,5 +16,3 @@ STS Haar officiele Discord servers:
 | STS Onderwereld | Onderwereld Discord van Shady | [Invite](https://discord.gg/XsRSdDNbWt) |
 | STS Overheid | Overheids Discord van Shady | [Invite](https://discord.gg/mVWmnZ7Tc8) |
 | STS Scripts | Scripts van Shady | [Invite](https://discord.gg/YCyM35bxKp) |
-
-# Gemaakt door [Caspertjuh](https://discord.gg/cSQPX2uJDW)
