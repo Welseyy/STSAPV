@@ -17,4 +17,4 @@ STS Haar officiele Discord servers:
 | STS Overheid | Overheids Discord van Shady | [Invite](https://discord.gg/mVWmnZ7Tc8) |
 | STS Scripts | Scripts van Shady | [Invite](https://discord.gg/YCyM35bxKp) |
 
-### Gemaakt door [Caspertjuh](https://discord.gg/cSQPX2uJDW)
+# Gemaakt door [Caspertjuh](https://discord.gg/cSQPX2uJDW)
