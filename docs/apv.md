@@ -157,4 +157,4 @@ Enkele voorbeelden zijn, jongere medespelers belachelijk maken en familieleden b
 
 ### Samensluiting
 1. Deze regels zijn opgesteld op 22/5/23
-2. Deze regels zijn bewerkt op 1/11/2023
+2. Deze regels zijn bewerkt op 6/01/2024
