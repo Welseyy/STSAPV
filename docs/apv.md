@@ -49,8 +49,8 @@ Enkele voorbeelden zijn, jongere medespelers belachelijk maken en familieleden b
 1. Het is verboden om je zelf voor te doen als een stafflid.
 2. Het dragen van outfits, enkel bedoeld voor staffleden zoals de vesten en/of truien is verboden.
 3. Het aangeven dat je een persoon gaat verbannen is tegen de regels.
-4. Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met een straf volgens minimaal de 5e categorie.
-5. Wanneer de regel zoals in lid 3 overtreden wordt, zal dit bestraft worden met een straf volgens minimaal de 4e categorie.
+4. Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met een straf volgens maximaal de 4e categorie.
+5. Wanneer de regel zoals in lid 3 overtreden wordt, zal dit bestraft worden met maximaal de 3e categorie.
 
 ### Artikel 9 - Value of life:
 1. Je hoeft je niet aan Value of Life te houden als je dit niet wilt.
