@@ -14,7 +14,7 @@
 
 ### Artikel 1 - Exploits en cheats:
 
-1. Enige vorm van aimbot, ESP, mod menu's en dergelijke zal een straf opleveren minimaal van de 6e categorie en maximaal van de 9e categorie.
+1. Enige vorm van aimbot, ESP, mod menu's en dergelijke zal een straf opleveren minimaal van de 6e categorie en maximaal van de 7e categorie.
 2. De server griefen met modmenu's zal resulteren in een straf van de 8e categorie.
 
 ### Artikel 2 - Ban omzeilen:
