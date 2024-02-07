@@ -14,10 +14,11 @@
 
 ### Artikel 1 - Exploits en cheats:
 
-Enige vorm van aimbot, ESP, mod menu's en dergelijke zal een straf opleveren minimaal van de 6e categorie en maximaal van de 9e categorie.
+1. Enige vorm van aimbot, ESP, mod menu's en dergelijke zal een straf opleveren minimaal van de 6e categorie en maximaal van de 9e categorie.
+2. De server griefen met modmenu's zal resulteren in een straf van de 8e categorie.
 
 ### Artikel 2 - Ban omzeilen:
-Het omzeilen van je ban zowel op de discord als op de server zal een straf opleveren van de 9e categorie.
+1. Het omzeilen van je ban zowel op de discord als op de server zal een straf opleveren van de 9e categorie.
 
 ### Artikel 3 - RDM:
 1. Het killen van mensen die niet betrokken zijn bij jouw schietpartij en ook niet betrokken willen zijn zal een straf opleveren van de 1e categorie.
@@ -32,12 +33,11 @@ Het omzeilen van je ban zowel op de discord als op de server zal een straf oplev
 2. Noclippen in een gang huis van een officiële groepering zal een straf opleveren van de 1e categorie.
 
 ### Artikel 5 - Schelden met hedendaagse ziektes:
-Het schelden met ziektes zoals kanker en dergelijke is streng tegen ons beleid, en zal bestraft worden met een straf van maximaal de 6e categorie. Je excuses aan bieden door een vrijwillige donatie te doen aan het KWF resulteert in het weghalen van de verbanning. Bij meerdere sancties kan er voor gekozen worden de excuses niet te accepteren.
+1. Het schelden met ziektes zoals kanker en dergelijke is streng tegen ons beleid, en zal bestraft worden met een voiceban van 30 dagen. Je excuses aan bieden door een vrijwillige donatie te doen aan het KWF resulteert in het weghalen van de verbanning.
 
 ### Artikel 6 - Kleinerend gedrag/spelers belachelijk maken:
-1. Mensen belachelijk maken/denigreren is verboden en zal bestraft worden met een straf van maximaal de 4e categorie.
-Enkele voorbeelden zijn, jongere medespelers belachelijk maken en familieleden betrekken in discussies.
-2. Vrouwontvriendelijk/manonvriendelijk gedrag wordt bestraft met een maximale straf van de 5e categorie, wanneer er heftige spam plaatsvind, een normale ban zal rond de 3e tot 4e categorie liggen.
+1. Mensen belachelijk maken/denigreren is verboden en zal bestraft worden met een voiceban van 7 dagen. Enkele voorbeelden zijn, jongere medespelers belachelijk maken en familieleden betrekken in discussies.
+2. Vrouwontvriendelijk/manonvriendelijk gedrag wordt bestraft met een maximale straf van voiceban van 14 dagen, wanneer er heftige spam plaatsvind, een normale voiceban zal rond de 3/7 dagen liggen.
 
 ### Artikel 7 - Spammen:
 1. In deepweb kanalen en berichten expres berichten achter elkaar blijft sturen zonder reden.
@@ -55,8 +55,9 @@ Enkele voorbeelden zijn, jongere medespelers belachelijk maken en familieleden b
 ### Artikel 9 - Value of life:
 1. Je hoeft je niet aan Value of Life te houden als je dit niet wilt.
 
-### Artikel 10 - VDM:
-1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden zal gestraft worden volgens de 1e categorie.
+### Artikel 10 - MassaVDM:
+1. Hij/zij die op meerdere personen inrijd met de intentie deze personen te vermoorden zal gestraft worden volgens de 1e categorie.
+2. Iemand die zijn auto als wapen gebruikt, en hiermee een scenario verpest of negatief aantast door personen te vermoorden of zeer ernstig "grieft" zal gestraft worden volgens de 1e categorie.
 
 ### Artikel 11 - Staff Abuse:
 1. Een stafflid mag zijn permissies niet gebruiken in de Redzone.
@@ -125,7 +126,7 @@ Enkele voorbeelden zijn, jongere medespelers belachelijk maken en familieleden b
 1. Tijdens een staffzaak liegen over hoe een situatie daadwerkelijk gegaan is.
 2. In een ticket het bewijs verdraaien om zo iemand een straf te laten krijgen.
 3. In een ticket bepaalde feiten ontkennen om onder een straf uit te komen.
-4. Wanneer de regel zoals in lid 1, 2 of 3 overtreden wordt, zal dit bestraft worden met een straf volgens de 5e categorie.
+4. Wanneer de regel zoals in lid 1, 2 of 3 overtreden wordt, zal dit bestraft worden met een straf volgens de 3e categorie.
 
 ### Artikel 23 - Bedreiging:
 1. Het dreigen met privégegevens.
