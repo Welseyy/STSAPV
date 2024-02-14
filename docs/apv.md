@@ -34,6 +34,7 @@
 
 ### Artikel 5 - Schelden met hedendaagse ziektes:
 1. Het schelden met ziektes zoals kanker en dergelijke is streng tegen ons beleid, en zal bestraft worden met een voiceban van 30 dagen. Je excuses aan bieden door een vrijwillige donatie te doen aan het KWF resulteert in het weghalen van de verbanning.
+2. Het schelden met ziektes zoals kanker en dergelijke in /report zal een straf opleveren van de 6de categorie.
 
 ### Artikel 6 - Kleinerend gedrag/spelers belachelijk maken:
 1. Mensen belachelijk maken/denigreren is verboden en zal bestraft worden met een voiceban van 7 dagen. Enkele voorbeelden zijn, jongere medespelers belachelijk maken en familieleden betrekken in discussies.
