@@ -5,58 +5,77 @@ Hieronder vindt je de voertuigenlijst
 ## Politie Voertuigenlijst
 
 ``` sh title="Politie_Voertuigenlijst"
-    police  'Touran'
-    police2  'Vito Bus'
-    police3  'Audi A6'
-    policet  'Transporter'
-    bf400  'Dirt Bike'
-    policeb  'BMW Motor'
-    mercedesb  'B-Klasse'
-    fbi  'Unmarked BMW'
-    flatbedp  'Sleepwagen'
-    riot2  'Riot Van'
-    pamarok  'amarok'
-    policemaserati  'Unmarked Maserati'
-    politiev90  'Unmarked Volvo V90'
-    UNMARKEDRS6  'Unmarked Audi RS6'
-    kmaramarok  'amarok'
-    kmaraudi  'Audi'
-    kmart5  't5'
-    kmartouran  'touran'
-    kmarb  'BMW Motor Marechaussee'
-    armed  'Armed humvee'
-    unarmed  'Unarmed humvee'
-    hunter  'AH-64 Apache'
-    annihilator3  'UH-60M'
-    mh60t  'MH60T'
-    chinook  'Chinook'
-    ah64d  'AH-64D'
-    HYDRA  'hydra'
-    lazer  'lazer'
-    f16c  'F16C'
-    unmarkeda6  'Unmarked Audi A6'
-    unmarkedaudirs6  'Unmarked Audi RS6'
-    unmarkedgolf  'Unmarked Volkswagen Golf'
-    unmarkedrange  'Unmarked Range Rover'
-    unmarkedrs3  'Unmarked Audi RS3'
-    unmarkedx5m  'Unmarked BMW X5M'
-    arrestatiebus  'Arrestatie Bus'
-    bearcat 'Bearcat'
-    dsimotor 'DSI Motor'
-    kmarastra 'Kmar Opel Astra'
-    kmart6  'Kmar Touran'
-    politiegolf  'Volkswagen Golf'
-    politielandcruiser  'Landcruiser'
-    politiemotorzwaar2  'Zware Motor'
-    politiepassat  'Volkswagen Passat'
-    politiesprinter  'Mercedes Sprinter'
-    unmarkedbmwg31  'BMW G31 Unmarked'
-    unmarkedcla  'Mercedes CLA Unmarked'
-    unmarkedtesla  'Tesla Unmarked'
-    unmarkedvito  'Mercedes Vito Unmarked'
-    polaudia6 'Audi A6 Unmarked'
-    kmarlandcruiser 'KMAR Landcruiser'
-    eodcrafter 'Ministerie Van Defensie Busje'
+    | Politie Arrestatie Bus | arrestatiebus |
+| Offroad Motor | bf400 |
+| DSI Porsche Cayenne GT | dsi22caygt |
+| DSI Ford Transit | dsigc_22transciv |
+| DSI Volkswagen Golf 7 | dsigolf7 |
+| DSI Motor | dsimotor |
+| DSI Audi Q7 | dsiq7 |
+| DSI Mercedes E63S AMG | dsirmode63s |
+| DSI Porsche Panamera | dsirmodpanamera2 |
+| DSI Audi RS6 | dsirmodrs6 |
+| DSI Jeep SRT | dsisrt8 |
+| DSI BMW X5M | dsix5mc |
+| Unmarked BMW | fbi |
+| Sleepwagen | flatbedp |
+| Mercedes B Klasse | mercedesb |
+| Ministerie Volvo | mvolvo |
+| Volkswagen Amarok | pamarok |
+| Audi A6 | paudi |
+| Audi A6 | paudi2 |
+| Audi A6 | paudi3 |
+| Mercedes B Klasse | pbklasse |
+| BMW Zware Motor | pbmwmotor |
+| BMW Zware Motor | pbmwmotor2 |
+| Offroad Motor | pdirtbike |
+| Toyota Landcruiser | plandcruiser |
+| Mercerdes Transport Bus | pol12 |
+| Honda Dirtbike | pol18 |
+| Mercedes B Klasse OVD | pol23 |
+| Volkswagen Amarok | pol24 |
+| Mercedes Sprinter Forensische Opsporing | pol25 |
+| Volkswagen Passat | pol32 |
+| Yamaha Aerox | pol35 |
+| Volkswagen Caddy | pol4 |
+| Audi A6 Slicktop | pol55 |
+| Unmarked Audi SQ7 | pol6d |
+| Volkswagen Golf | pol9 |
+| Audi A6 | polaudi |
+| Audi A6 | polaudi2 |
+| Unmarked Audi A6 | polaudia6 |
+| Politie Fiets | polfiets |
+| Volkswagen Touran | police |
+| Mercedes Vito | police2 |
+| Audi A6 | police3 |
+| Zware Motor | policeb |
+| Unmarked Maserati | policemaserati |
+| Audi A6 | policeold2 |
+| Politie Fiets | politiebike |
+| Volkswagen Golf | politiegolf |
+| Toyota Landcruiser | politielandcruiser |
+| Zware Motor | politiemotorzwaar2 |
+| Volkswagen Passat | politiepassat |
+| Politie Sprinter Bus | politiesprinter |
+| Unmarked Volvo V90 | politiev90 |
+| Volkswagen T6 | pt6 |
+| Volkswagen Touran | ptouran |
+| Unmarked Range Rover | rrstPOL |
+| Unmarked Volkswagen T6 | t6un |
+| Unmarked Audi A6 | unmarkeda6 |
+| Unmarked Audi RS6 | unmarkedaudirs6 |
+| Unmarked BMW 530i G31 | unmarkedbmwg31 |
+| Unmarked Mercedes CLA | unmarkedcla |
+| Unmarked Crafter | unmarkedcrafter |
+| Unmarked Volkswagen Golf | unmarkedgolf |
+| Unmarked Range Rover | unmarkedrange |
+| Unmarked Audi RS3 | unmarkedrs3 |
+| Unmarked Mercedes S63 | unmarkeds63 |
+| Unmarked Tesla | unmarkedtesla |
+| Unmarked BMW X5M | unmarkedx5m |
+| Unmarked Alfa Romeo Giulia | upolgiulia |
+| Unmarked Honda Hatchback | upolhatchback |
+| Unmarked Jaguar XE | upolxe |
 ```
 
 
