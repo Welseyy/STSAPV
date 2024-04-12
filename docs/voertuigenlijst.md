@@ -5,7 +5,7 @@ Hieronder vindt je de voertuigenlijst
 ## Politie Voertuigenlijst
 
 ``` sh title="Politie_Voertuigenlijst"
-    | Politie Arrestatie Bus | arrestatiebus |
+| Politie Arrestatie Bus | arrestatiebus |
 | Offroad Motor | bf400 |
 | DSI Porsche Cayenne GT | dsi22caygt |
 | DSI Ford Transit | dsigc_22transciv |
