@@ -83,11 +83,11 @@ Hieronder vindt je de voertuigenlijst
 
 
 ``` sh title="Ambulance_Voertuigen"
-    - "ambuam"  
-    - "ambu90"
-    - "dierenambu"
-    - "knrmraptor"
-    - "knrmam"
+    - ambuam
+    - ambu90
+    - dierenambu
+    - knrmraptor
+    - knrmam
 ```
 
 
@@ -95,13 +95,13 @@ Hieronder vindt je de voertuigenlijst
 
 
 ``` sh title="ANWB_Voertuigen"
-    - "flatbed"
-    - "asterope"
-    - "tundra"
-    - "towtruck"
-    - "brisa_mvito"
-    - "anwbvolvo"
-    - "anwbvito"
+    - flatbed
+    - asterope
+    - tundra
+    - towtruck
+    - brisa_mvito
+    - anwbvolvo
+    - anwbvito
     
 ```
 
