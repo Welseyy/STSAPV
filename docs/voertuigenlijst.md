@@ -64,7 +64,6 @@ Hieronder vindt je de voertuigenlijst
 
 
 ``` sh title="Ambulance_Voertuigen"
-    eclass
     ambuam  
     ambu90
     dierenambu
