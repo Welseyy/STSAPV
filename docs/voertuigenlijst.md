@@ -67,7 +67,6 @@ Hieronder vindt je de voertuigenlijst
     ambuam  
     ambu90
     dierenambu
-    djisprinter
     knrmraptor
     knrmam
 ```
