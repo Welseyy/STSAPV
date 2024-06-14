@@ -80,20 +80,20 @@
 1. Als mensen met elkaar in een achtervolging zitten ga je niet zomaar mengen of de roleplay verbreken.
 2. Als er een actieve overval gaande is ga je niet zomaar mengen als je geen politie bent! Verstoor dan ook nooit het scenario en laat het altijd voor ieder leuk!
 3. Als er een carmeeting / evenement word gehouden door staff of een speler verpest je dit ook niet, in geen enkele opzicht.
-4. Wanneer de regel zoals omschreven is in lid 1, 2 en 3 word dit bestraft volgens het 1e categorie.
+4. Wanneer de regel zoals omschreven is in lid 1, 2 en 3 word dit bestraft volgens de 1e categorie.
 
 ### Artikel 15 - Adverteren:
 
-1. In /me en dergelijk je kanaal zetten en “sub” / “follow” mij “kanaal”
+1. Je kanaal/shop/discord promoten door middel van /me, /ooc, /aod (supporter) of iets dergelijks.
 2. Tegen mensen via voice chat je kanaal adverteren.
-3. Wanneer de regel zoals in lid 1 en 2 omschreven is, word overtreden gaat dit bestraft worden volgens het 1e categorie.
+3. Wanneer de regel zoals in lid 1 en 2 omschreven is, word overtreden gaat dit bestraft worden volgens de 1e categorie.
 
 ### Artikel 16 -  Earrape:
 
 1. Schreeuwen door je microfoon
 2. Harde muziek door je microfoon afspelen
 3. Allerlei harde geluiden door je microfoon afspelen
-4. Wanneer de regel die omschreven is in lid 1, 2 en 3 overtreden is word dit bestraft volgens het 1e categorie.
+4. Wanneer de regel die omschreven is in lid 1, 2 en 3 overtreden zal dit bestraft worden door een voiceban van maximaal 3 dagen.
 
 ### Artikel 17 -  Algemene regels voor betaalde gangs:
 1. Het misbruik maken van je F6-menu door middel van onrealistische acties uit te voeren zoals onder beschreven.
@@ -107,8 +107,7 @@
 ### Artikel 18 -  Terrein Claimen:
 1. Wanneer een officiele gang een terrein bezit mag deze niet door een andere groep of persoon geclaimd worden.
 2. Wanneer je weggestuurd word op een gangterrein door iemand die dit gangterrein bezit dien je weg te gaan.
-3. Nep meldingen maken bij een terrein van een officiële groepering zodat politie of een andere groepering hier iets mee te maken krijgt is niet toegestaan.
-4. Wanneer de regels zoals in lid 1, 2 of 3 overtreden worden, zal dit bestraft worden met een straf volgens minimaal de 2e categorie. Mocht de sanctie vaker voorkomen, kan het stafflid beslissen om te straffen volgens de 3e categorie.
+3. Wanneer de regels zoals in lid 1 of 2 overtreden worden, zal dit bestraft worden met een straf volgens minimaal de 2e categorie. Mocht de sanctie vaker voorkomen, kan het stafflid beslissen om te straffen volgens de 3e categorie.
 
 ### Artikel 19 -  Uitlokken van officiële gangs:
 1. Nep meldingen maken bij een terrein van een officiële groepering zodat politie of een andere groepering hier iets mee te maken krijgt.
@@ -120,7 +119,7 @@
 2. Indien u een regel overtreedt en bewust de stad verlaat nadien u de regel overtreden hebt, zal dit opleveren op een straf van maximaal de 2e categorie.
 
 ### Artikel 21 - Streamsnipen:
-1. Naar een streamer zijn locatie gaan en hem vervolgens verstoren/content van de streamer verpesten.
+1. Naar een streamer zijn/haar locatie gaan en hem/haar vervolgens verstoren/content van de streamer verpesten.
 2. Wanneer de regel zoals in lid 1 overtreden wordt, zal dit bestraft worden met een straf volgens de 3e categorie.
 
 ### Artikel 22 - Liegen tegen staffleden:
@@ -158,5 +157,5 @@
 3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met minimaal de 2e categorie en maximaal de 3e categorie.
 
 ### Samensluiting
-1. Deze regels zijn opgesteld op 22/5/23
-2. Deze regels zijn bewerkt op 6/01/2024
+1. Deze regels zijn opgesteld op 22/05/2023
+2. Deze regels zijn bewerkt op 14/06/2024
