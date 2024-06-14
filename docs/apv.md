@@ -37,7 +37,7 @@
 2. Het schelden met ziektes zoals kanker en dergelijke in /report zal een straf opleveren van de 6de categorie.
 
 ### Artikel 6 - Kleinerend gedrag/spelers belachelijk maken:
-1. Mensen belachelijk maken/denigreren is verboden en zal bestraft worden met een voiceban van 7 dagen. Enkele voorbeelden zijn, jongere medespelers belachelijk maken en familieleden betrekken in discussies.
+1. Mensen belachelijk maken/denigreren is verboden en zal bestraft worden met een voiceban van maximaal 7 dagen. Enkele voorbeelden zijn, jongere medespelers belachelijk maken en familieleden betrekken in discussies.
 2. Vrouwontvriendelijk/manonvriendelijk gedrag wordt bestraft met een maximale straf van voiceban van 14 dagen, wanneer er heftige spam plaatsvind, een normale voiceban zal rond de 3/7 dagen liggen.
 
 ### Artikel 7 - Spammen:
