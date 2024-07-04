@@ -133,9 +133,10 @@
 2. Het dreigen met ip's/dreigen met booten (ddossen).
 3. Het delen van persoonlijke informatie van spelers/staffleden.
 4. Het (be)dreigen met acties en/of handelingen die invloed kunnen hebben in het echte leven.
-5. Wanneer de regel zoals in lid 1, 2 of 3 overtreden wordt, zal dit bestraft worden met een straf volgens de 7e categorie.
-6. Wanneer de regel zoals in lid 4 overtreden wordt, zal dit bestraft worden met een straf volgens minimaal de 1e categorie en maximaal 
-   de 5e categorie.
+5. Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met een straf volgens de 4e categorie.
+6. Wanneer de regel zoals in lid 3 overtreden wordt, zal dit bestraft worden met een straf volgens maximaal de 9e categorie.
+7. Wanneer de regel zoals in lid 4 overtreden wordt, zal dit bestraft worden met een straf volgens minimaal de 1e categorie en maximaal 
+   de 4e categorie.
 
 ### Artikel 24  - Erotische RP Scenario's:
 1. Het is ten alle tijden verboden om in een scenario seksuele roleplay neer te zetten.
@@ -158,4 +159,4 @@
 
 ### Samensluiting
 1. Deze regels zijn opgesteld op 22/05/2023
-2. Deze regels zijn bewerkt op 14/06/2024
+2. Deze regels zijn bewerkt op 04/07/2024
