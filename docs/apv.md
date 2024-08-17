@@ -22,7 +22,11 @@
 
 ### Artikel 3 - RDM:
 1. Het killen van mensen die niet betrokken zijn bij jouw schietpartij en ook niet betrokken willen zijn zal een straf opleveren van de 1e categorie.
-2. 6 RDM Sancties = 1 dag ban | 10 RDM Sancties = 2 dagen ban | 15 RDM Sancties = 3 dagen ban | 20 RDM Sancties = 4 dagen ban 
+2. Wanneer je meerdere RDM warnings hebt stijgt de hoogte van je straf. 
+   • 6 RDM Sancties = 1 dag ban
+   • 10 RDM Sancties = 2 dagen ban
+   • 15 RDM Sancties = 3 dagen ban
+   • 20 RDM Sancties = 4 dagen ban 
 3. Als iemand op het eiland loopt zonder wapen vast, en niet in een scenario zit met een andere persoon/groepering, mag deze persoon niet vermoord worden. Dit word gezien als een ongeldige reden en zal worden bestraft volgens de 1e categorie.
 
 ### Artikel 4 - Permissions abuse:
@@ -130,7 +134,7 @@
 2. Het dreigen met ip's/dreigen met booten (ddossen).
 3. Het delen van persoonlijke informatie van spelers/staffleden.
 4. Het (be)dreigen met acties en/of handelingen die invloed kunnen hebben in het echte leven.
-5. Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met een straf volgens de 4e categorie.
+5. Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met een straf volgens de 5e categorie.
 6. Wanneer de regel zoals in lid 3 overtreden wordt, zal dit bestraft worden met een straf volgens maximaal de 9e categorie.
 7. Wanneer de regel zoals in lid 4 overtreden wordt, zal dit bestraft worden met een straf volgens minimaal de 1e categorie en maximaal 
    de 4e categorie.
