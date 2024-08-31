@@ -77,7 +77,20 @@ Hieronder vindt je de voertuigenlijst
 | Unmarked Honda Hatchback | upolhatchback |
 | Unmarked Jaguar XE | upolxe |
 ```
+## Lore Friendly Politie Voertuigenlijst
 
+``` sh title="Lore_Friendly_Politie_Voertuigenlijst"
+polargento1, polargento3 | Politie snel interventievoertuig
+polargento2 | Politie snel interventievoertuig
+poleveron, poleveron2 | Politie Offroader
+polimperial, polimperial2 | Politiebus
+poljogger | Politie Transporter
+polrebla, polrebla2 | Politie SUV
+polthrust, polthrust2 | Politie Zware Motor
+upolballer | Unmarked SUV
+upolschafte | Unmarked interventievoertuig
+upolstreite | Unmarked interventievoertuig
+```
 
 ## Ambulance Voertuigenlijst
 
