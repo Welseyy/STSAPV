@@ -7,7 +7,7 @@ Hieronder vindt je de voertuigenlijst
 
 ``` 
 pargento | Politie snel interventievoertuig
-peveron, poleveron2 | Politie Offroader
+peveron | Politie Offroader
 pimperial | Politie Transporter
 prebla | Politie SUV
 peveron | Politie SUV
