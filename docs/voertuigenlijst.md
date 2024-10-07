@@ -5,7 +5,7 @@ Hieronder vindt je de voertuigenlijst
 ## Politie en KMAR Voertuigenlijst
 
 
-``` 
+``` sh title="Politie/Kmar_Voertuigen"
 pargento | Politie snel interventievoertuig
 peveron | Politie Offroader
 pimperial | Politie Transporter
@@ -38,7 +38,7 @@ kmaroffroad | Kmar Offroad Motor
 ## ANWB Voertuigenlijst
 
 
-``` sh title="ANWB_Voertuigen"
+``` sh title="Wegenwacht_Voertuigen"
     - wimperial    
 ```
 
