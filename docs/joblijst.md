@@ -23,7 +23,7 @@
 ## ANWB
 
 
-``` ts title="ANWB"
+``` ts title="Wegenwacht"
 
 /setjob {id} mechanic 0 | ANWB - Stagiair
 /setjob {id} mechanic 1 | ANWB - Uitzendkracht
