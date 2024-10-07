@@ -2,105 +2,36 @@
 
 Hieronder vindt je de voertuigenlijst
 
-## Politie Voertuigenlijst
+## Politie en KMAR Voertuigenlijst
 
-``` sh title="Politie_Voertuigenlijst"
-| Politie Arrestatie Bus | arrestatiebus |
-| Offroad Motor | bf400 |
-| DSI Porsche Cayenne GT | dsi22caygt |
-| DSI Ford Transit | dsigc_22transciv |
-| DSI Volkswagen Golf 7 | dsigolf7 |
-| DSI Motor | dsimotor |
-| DSI Audi Q7 | dsiq7 |
-| DSI Mercedes E63S AMG | dsirmode63s |
-| DSI Porsche Panamera | dsirmodpanamera2 |
-| DSI Audi RS6 | dsirmodrs6 |
-| DSI Jeep SRT | dsisrt8 |
-| DSI BMW X5M | dsix5mc |
-| Unmarked BMW | fbi |
-| Sleepwagen | flatbedp |
-| Mercedes B Klasse | mercedesb |
-| Ministerie Volvo | mvolvo |
-| Volkswagen Amarok | pamarok |
-| Audi A6 | paudi |
-| Audi A6 | paudi2 |
-| Audi A6 | paudi3 |
-| Mercedes B Klasse | pbklasse |
-| BMW Zware Motor | pbmwmotor |
-| BMW Zware Motor | pbmwmotor2 |
-| Offroad Motor | pdirtbike |
-| Toyota Landcruiser | plandcruiser |
-| Mercerdes Transport Bus | pol12 |
-| Honda Dirtbike | pol18 |
-| Mercedes B Klasse OVD | pol23 |
-| Volkswagen Amarok | pol24 |
-| Mercedes Sprinter Forensische Opsporing | pol25 |
-| Volkswagen Passat | pol32 |
-| Yamaha Aerox | pol35 |
-| Volkswagen Caddy | pol4 |
-| Audi A6 Slicktop | pol55 |
-| Unmarked Audi SQ7 | pol6d |
-| Volkswagen Golf | pol9 |
-| Audi A6 | polaudi |
-| Audi A6 | polaudi2 |
-| Unmarked Audi A6 | polaudia6 |
-| Politie Fiets | polfiets |
-| Volkswagen Touran | police |
-| Mercedes Vito | police2 |
-| Audi A6 | police3 |
-| Zware Motor | policeb |
-| Unmarked Maserati | policemaserati |
-| Audi A6 | policeold2 |
-| Politie Fiets | politiebike |
-| Volkswagen Golf | politiegolf |
-| Toyota Landcruiser | politielandcruiser |
-| Zware Motor | politiemotorzwaar2 |
-| Volkswagen Passat | politiepassat |
-| Politie Sprinter Bus | politiesprinter |
-| Unmarked Volvo V90 | politiev90 |
-| Volkswagen T6 | pt6 |
-| Volkswagen Touran | ptouran |
-| Unmarked Range Rover | rrstPOL |
-| Unmarked Volkswagen T6 | t6un |
-| Unmarked Audi A6 | unmarkeda6 |
-| Unmarked Audi RS6 | unmarkedaudirs6 |
-| Unmarked BMW 530i G31 | unmarkedbmwg31 |
-| Unmarked Mercedes CLA | unmarkedcla |
-| Unmarked Crafter | unmarkedcrafter |
-| Unmarked Volkswagen Golf | unmarkedgolf |
-| Unmarked Range Rover | unmarkedrange |
-| Unmarked Audi RS3 | unmarkedrs3 |
-| Unmarked Mercedes S63 | unmarkeds63 |
-| Unmarked Tesla | unmarkedtesla |
-| Unmarked BMW X5M | unmarkedx5m |
-| Unmarked Alfa Romeo Giulia | upolgiulia |
-| Unmarked Honda Hatchback | upolhatchback |
-| Unmarked Jaguar XE | upolxe |
-```
-## Lore Friendly Politie Voertuigenlijst
 
-``` sh title="Lore_Friendly_Politie_Voertuigenlijst"
-polargento1, polargento3 | Politie snel interventievoertuig
-polargento2 | Politie snel interventievoertuig
-poleveron, poleveron2 | Politie Offroader
-polimperial, polimperial2 | Politiebus
-poljogger | Politie Transporter
-polrebla, polrebla2 | Politie SUV
-polthrust, polthrust2 | Politie Zware Motor
-upolballer | Unmarked SUV
-upolschafte | Unmarked interventievoertuig
-upolstreite | Unmarked interventievoertuig
+``` 
+pargento | Politie snel interventievoertuig
+peveron, poleveron2 | Politie Offroader
+pimperial | Politie Transporter
+prebla | Politie SUV
+peveron | Politie SUV
+ponroad | Politie Zware Motor
+poffroad | Politie Offroad Motor
+pheli | Politie Zulu
+unmarkedrebla | Unmarked SUV
+unmarkedargento | Unmarked interventievoertuig
+
+kmarargento | Kmar snel interventievoertuig
+kmardubsta | Kmar/HRB 4x4 
+kmareveron | Kmar SUV
+kmarimperial | Kmar Transporter
+kmaronroad | Kmar Zware Motor
+kmaroffroad | Kmar Offroad Motor
 ```
 
 ## Ambulance Voertuigenlijst
 
 
 ``` sh title="Ambulance_Voertuigen"
-    - ambuam
-    - ambu90
-    - dierenambu
-    - knrmraptor
-    - knrmam
+    - ambuconada
+    - ambujogger
+    - amburebla
 ```
 
 
@@ -108,14 +39,7 @@ upolstreite | Unmarked interventievoertuig
 
 
 ``` sh title="ANWB_Voertuigen"
-    - flatbed
-    - asterope
-    - tundra
-    - towtruck
-    - brisa_mvito
-    - anwbvolvo
-    - anwbvito
-    
+    - wimperial    
 ```
 
 
