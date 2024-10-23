@@ -31,7 +31,8 @@
 
 ### Artikel 4 - Permissions abuse:
 1. Het misbruiken van je f6 menu door bijvoorbeeld je als staff te opstellen (rdmers boeien etc.) of mensen te boeien die dat niet willen zal een straf opleveren van de 2e of 3e categorie.
-2. Noclippen in een gang huis van een officiële groepering zal een straf opleveren van de 1e categorie.
+2. Het griefen zonder cheats, zoals spammen van voertuigen, objecten of dergelijke zal een straf opleveren van maximaal de 4e categorie.
+3. Noclippen in een gang huis van een officiële groepering zal een straf opleveren van de 1e categorie.
 
 ### Artikel 5 - Schelden met hedendaagse ziektes:
 1. Het schelden met ziektes zoals kanker en dergelijke is streng tegen ons beleid, en zal bestraft worden met een voiceban van 30 dagen. Je excuses aan bieden door een vrijwillige donatie te doen aan het KWF resulteert in het weghalen van de verbanning.
@@ -79,9 +80,10 @@
 ### Artikel 14 - Verstoren van een RP:
 
 1. Als mensen met elkaar in een achtervolging zitten ga je niet zomaar mengen of de roleplay verbreken.
-2. Als er een actieve overval gaande is ga je niet zomaar mengen als je geen politie bent! Verstoor dan ook nooit het scenario en laat het altijd voor ieder leuk!
+2. Als er een actieve overval gaande is ga je niet zomaar mengen als je geen politie bent! Verstoor dan ook nooit het scenario -  en laat het altijd voor ieder leuk!
 3. Als er een carmeeting / evenement word gehouden door staff of een speler verpest je dit ook niet, in geen enkele opzicht.
-4. Wanneer de regel zoals omschreven is in lid 1, 2 en 3 word dit bestraft volgens de 1e categorie.
+4. Wanneer de regel zoals omschreven is in lid 1 en 2 word overtreden word dit bestraft volgens de 1e categorie.
+5. Wanneer de regel zoals omschreven is in lid 3 word overtreden word dit bestraft volgens de 2e categorie.
 
 ### Artikel 15 - Adverteren:
 
