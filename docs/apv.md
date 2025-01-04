@@ -15,7 +15,9 @@
 ### Artikel 1 - Exploits en cheats:
 
 1. Enige vorm van aimbot, ESP, mod menu's en dergelijke zal een straf opleveren minimaal van de 6e categorie en maximaal van de 7e categorie.
-2. De server griefen met modmenu's zal resulteren in een straf van de 8e categorie.
+2. Bij 3 overtredingen of meer van lid 1 zal bij elke opvolgende ban 30 dagen extra toegevoegd worden.
+3. Het opnoemen van de steamnaam van een speler, of stafflid, zal worden bestraft met een straf van maximaal de 2e categorie.
+4. De server griefen met modmenu's zal resulteren in een straf van de 8e categorie.
 
 ### Artikel 2 - Ban omzeilen:
 1. Het omzeilen van je ban zowel op de discord als op de server zal een straf opleveren van de 9e categorie.
