@@ -49,7 +49,8 @@
 1. In deepweb kanalen en berichten expres berichten achter elkaar blijft sturen zonder reden.
 2. In meldkamer of bij het bellen heel vaak expres achter elkaar doen zonder enkele reden.
 3. Twitter en reports vaak achter elkaar expres blijven versturen zonder enkele reden.
-4. Wanneer de regel zoals omschreven is in lid 1, 2 en 3 overtreden is word dit bestraft volgens het 1e categorie.
+4. In /me breichten achter elkaar sturen zonder reden.
+5. Wanneer de regel zoals omschreven in lid 1, 2, 3 en 4 wordt overtreden, wordt dit bestraft volgens de 1e categorie.
 
 ### Artikel 8 - Jezelf voordoen als staff:
 1. Het is verboden om je zelf voor te doen als een stafflid.
