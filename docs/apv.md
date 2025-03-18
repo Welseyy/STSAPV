@@ -166,4 +166,4 @@
 
 ### Samensluiting
 1. Deze regels zijn opgesteld op 22/05/2023
-2. Deze regels zijn bewerkt op 04/07/2024
+2. Deze regels zijn bewerkt op 18/04/2025
