@@ -49,7 +49,8 @@
 1. In deepweb kanalen en berichten expres berichten achter elkaar blijft sturen zonder reden.
 2. In meldkamer of bij het bellen heel vaak expres achter elkaar doen zonder enkele reden.
 3. Twitter en reports vaak achter elkaar expres blijven versturen zonder enkele reden.
-4. Wanneer de regel zoals omschreven is in lid 1, 2 en 3 overtreden is word dit bestraft volgens het 1e categorie.
+4. Het spammen in /me zonder reden.
+4. Wanneer de regel zoals omschreven is in lid 1, 2, 3 of 4 overtreden is word dit bestraft volgens het 1e categorie.
 
 ### Artikel 8 - Jezelf voordoen als staff:
 1. Het is verboden om je zelf voor te doen als een stafflid.
@@ -90,7 +91,7 @@
 
 ### Artikel 15 - Adverteren:
 
-1. Je kanaal/shop/discord promoten door middel van /me, /ooc, /aod (supporter) of iets dergelijks.
+1. Je kanaal/shop/discord promoten door middel van /me, /ooc, /aod (supporter), betaalde artikelen of elke andere mogelijkheid aangeboden in de server.
 2. Tegen mensen via voice chat je kanaal adverteren.
 3. Wanneer de regel zoals in lid 1 en 2 omschreven is, word overtreden gaat dit bestraft worden volgens de 1e categorie.
 
@@ -149,7 +150,8 @@
 2. Wanneer de regel zoals in lid 1 word omschreven overtreden is, word dit bestraft volgens de 4e categorie.
 
 ### Artikel 25  - Reports:
-1. Het maken van reports om de minuut met dezelfde informatie word gezien als reports spammen.
+1. Het report systeem gebruiken om mensen te beledigen, als discussiekanaal of het verdoen van staffleden hun tijd door onduidelijke reports te maken.
+   Enkele voorbeelden hiervan zijn: "Max, kom eens" "Max, tp eens op me" "cheater" dit zijn reports zonder informatie en zijn ongewenst.
 2. Wanneer de regel zoals in lid 1 word omschreven overtreden is, word dit bestraft met een kick. Mocht dit vaker gebeuren, kan een stafflid overgaan tot het bestraffen volgens de 1e categorie.
 
 ### Artikel 26 - Officiële Groeperingen:
