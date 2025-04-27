@@ -1,6 +1,6 @@
 # Voertuigenlijst
 
-### Gebruik ingame /cars om alle voertuigen te zien.
+### Gebruik ingame /car om alle voertuigen te zien.
 Hieronder vindt je een deel van de voertuigenlijst.
 
 ## Politie en KMAR Voertuigenlijst
