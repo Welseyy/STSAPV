@@ -1,9 +1,8 @@
 # Redzone Ranking
 
 Je krijgt redzone MMR door kills te maken, ook krijg je MMR als je het lang overleefd (langer dan 10 minuten zal niet worden opgeteld). Ook krijg je meer punten door headshots te raken. 
-Je kunt ook MMR verliezen, dit gebeurd tijdens elke dood en is altijd hetzelfde aantal. In tegenstelling is de MMR die je krijgt per kill gebaseerd op welke rank je hebt, je krijgt bijvoorbeeld meer MMR per kill op de rang copper dan op de rang platinum. Hierdoor heeft het daadwerkelijk skill nodig om een hoge rang te behalen en houden. Het vast zitten op rang gaat dus niet meer gebeuren, dit is aan jezelf om te verbeteren.
+Je kunt ook MMR verliezen, dit gebeurt tijdens elke dood en is altijd hetzelfde aantal. In tegenstelling is de MMR die je krijgt per kill gebaseerd op welke rank je hebt, je krijgt bijvoorbeeld meer MMR per kill op de rang copper dan op de rang platinum. Hierdoor heeft het daadwerkelijk skill nodig om een hoge rang te behalen en houden.
 
-Er zijn ook een aantal nieuwe rangen toegevoegd. Aan het begin met spelen krijg je 0 RZ MMR, dit staat gelijk aan Copper V.
 Dit zijn momenteel alle rangen:
 
 - Copper V (0-100 RZ MMR)
@@ -46,4 +45,5 @@ Dit zijn momenteel alle rangen:
 - Champion IV (3600-3700 RZ MMR)
 - Champion III (3700-3800 RZ MMR)
 - Champion II (3800-3900 RZ MMR)
-- Champion I (3900+ RZ MMR)
+- Champion I (3900-4000 RZ MMR)
+- Unreal (4000+ RZ MMR)
