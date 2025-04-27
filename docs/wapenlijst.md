@@ -1,5 +1,8 @@
 # Wapenlijst
 
+### Gebruik ingame /wapens om alle wapens te kunnen zien.
+Hieronder een deel van de wapens.
+
 Voorbeeld van inspawnen: /giveweapon (ID) weapon_(JOUWAPEN) (ammoaantal)
 
 ``` ts title="Voorbeeld_van_inspawnen"
