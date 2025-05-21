@@ -24,14 +24,8 @@
 1. Het omzeilen van je ban zowel op de discord als op de server zal een straf opleveren van de 9e categorie.
 
 ### Artikel 3 - RDM:
-1. Het killen van mensen die niet betrokken zijn bij jouw schietpartij en ook niet betrokken willen zijn zal een straf opleveren van de 1e categorie.
-2. Als iemand op het eiland loopt zonder wapen vast, en niet in een scenario zit met een andere persoon/groepering, mag deze persoon niet vermoord worden. Dit word gezien als een ongeldige reden en zal worden bestraft volgens de 1e categorie.
-3. Het beschieten/slopen van autobanden en andere acties met wapens die als ernstige hinder opgevat kunnen worden vallen niet onder RDM.
-4. Wanneer je meerdere RDM warnings hebt stijgt de hoogte van je straf. 
-   • 6 RDM Sancties = 1 dag ban
-   • 10 RDM Sancties = 2 dagen ban
-   • 15 RDM Sancties = 3 dagen ban
-   • 20 RDM Sancties = 4 dagen ban 
+1. Het is niet toegestaan om iemand in een staffzaak zonder reden dood te schieten.
+2. Het overtreden van de regel in lid 1 zal een straf opleveren van de 1e categorie.
 
 ### Artikel 4 - Permissions abuse:
 1. Het misbruiken van je f6 menu door bijvoorbeeld je als staff te opstellen (rdmers boeien etc.) of mensen te boeien die dat niet willen zal een straf opleveren van de 2e of 3e categorie.
@@ -83,12 +77,15 @@
 1. Je hoeft officieel niks te vergeten als je dood bent gegaan, tenzij je dit zelf wilt.
 
 ### Artikel 14 - Verstoren van een RP:
-
-1. Als mensen met elkaar in een achtervolging zitten ga je niet zomaar mengen of de roleplay verbreken.
-2. Als er een actieve overval gaande is ga je niet zomaar mengen als je geen politie bent! Verstoor dan ook nooit het scenario -  en laat het altijd voor ieder leuk!
-3. Als er een carmeeting / evenement word gehouden door staff of een speler verpest je dit ook niet, in geen enkele opzicht.
-4. Wanneer de regel zoals omschreven is in lid 1 en 2 word overtreden word dit bestraft volgens de 1e categorie.
-5. Wanneer de regel zoals omschreven is in lid 3 word overtreden word dit bestraft volgens de 2e categorie.
+1. Wanneer er een overval, achtervolging, roleplay of scenario gaande is val je deze personen niet lastig.
+2. Wanneer er een gangevenement, overheidsevenement of normaal evenement gaande is val je deze personen niet lastig.
+3. Wanneer de regel zoals omschreven is in lid 1  word overtreden word dit bestraft volgens de 1e categorie.
+4. Wanneer de regel zoals omschreven is in lid 2 word overtreden word dit bestraft volgens de 2e categorie.
+5. Wanneer je meerdere Verstoren van RP warnings hebt stijgt de hoogte van je straf. 
+• 6 sancties = 1 dag ban 
+• 10 sancties = 2 dagen ban 
+• 15 sancties = 3 dagen ban 
+• 20 sancties = 4 dagen ban
 
 ### Artikel 15 - Adverteren:
 
