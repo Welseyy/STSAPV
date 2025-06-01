@@ -78,6 +78,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - APV: apv.md
+  - Roleplay lobby APV: rpapv.md
   - Keybinds: keybinds.md
   - Commands: commands.md
   - Wapenlijst: wapenlijst.md
