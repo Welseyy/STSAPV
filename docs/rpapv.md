@@ -1,7 +1,6 @@
 # Algemene Plaatselijke Verordening STS Roleplay lobby
 
 ### Straffen:
-Straffen:
 - Cat 1: Warning
 - Cat 2: 2 uur verbanning
 - Cat 3: 1 dag verbanning
