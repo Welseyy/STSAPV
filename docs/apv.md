@@ -98,7 +98,8 @@
 1. Schreeuwen door je microfoon
 2. Harde muziek door je microfoon afspelen
 3. Allerlei harde geluiden door je microfoon afspelen
-4. Wanneer de regel die omschreven is in lid 1, 2 en 3 overtreden zal dit bestraft worden door een voiceban van maximaal 3 dagen.
+4. Het gebruiken van een te zware voicechanger word bestraft met een voiceban van maximaal 1 dag.
+5. Wanneer de regel die omschreven is in lid 1, 2 en 3 overtreden zal dit bestraft worden door een voiceban van maximaal 3 dagen.
 
 ### Artikel 17 -  Algemene regels voor betaalde gangs:
 1. Het misbruik maken van je F6-menu door middel van onrealistische acties uit te voeren zoals onder beschreven.
