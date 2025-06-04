@@ -59,7 +59,7 @@ De volgende regels overschrijden de Artikels in het huidige APV, Artikels die we
 
 ### RP Artikel 8 - Onrealistische Roleplay:
 
-- Uitstappen na een zware crash; Niet meewerken als er een wapen op je gericht staat (NVOL); Als Politie alleen op hoofd schieten; Offroad rijden met een auto die daar niet voor geschikt is worden allemaal gezien als Onrealistische Roleplay.
+- Uitstappen na een zware crash; Niet meewerken als er een wapen op je gericht staat (NVOL); Als Politie combatgedrag vertonen; Pitten boven een snelheid van 130km/h; Offroad rijden met een auto die daar niet voor geschikt is worden allemaal gezien als Onrealistische Roleplay.
 - Het maken van onrealistische jumps wordt NIET gezien als onrealistische roleplay, houd hiermee wel rekening met Lid 1.
 - Het vertonen van onrealistische roleplay wordt gezien als het verstoren van een scenario en zal gestraft worden met de 2e categorie als dit vaker voorkomt bij een bepaalde speler.
 
