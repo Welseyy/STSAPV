@@ -33,7 +33,7 @@ De volgende regels overschrijden de Artikels in het huidige APV, Artikels die we
 
 ### RP Artikel 4 - Staff Abuse:
 
-- Een stafflid mag names, blips en godmode niet gebruiken in de RP Lobby als hij/zij bezig is met een scenario.
+- Een stafflid mag names, blips en godmode enkel gebruiken wanneer hij herkenbaar is met een staff trui/vest, een staff auto of een AOD die aanstaat en zich niet mengt in een actief roleplay scenario.
 - Een stafflid mag enkel oordelen over een scenario waarin hij/zij betrokken is indien er geen andere staffleden online zijn.
 - Als een stafflid zich niet aan lid 1 of 2 houd, wordt er gestraft met de 2e categorie door management. Als dit vaker voorkomt bij een stafflid, zal dit door management worden opgepakt en zullen hiervoor andere consequenties voor worden gegeven.
 
