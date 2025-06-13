@@ -28,7 +28,7 @@
 2. Het overtreden van de regel in lid 1 zal een straf opleveren van de 1e categorie.
 
 ### Artikel 4 - Permissions abuse:
-1. Het misbruiken van je f6 menu door bijvoorbeeld je als staff te opstellen (rdmers boeien etc.) of mensen te boeien die dat niet willen zal een straf opleveren van de 2e of 3e categorie.
+1. Het misbruiken van je f6 menu zoals het ongewenst uitvoeren van handelingen op personen, noclip gebruiken om mensen hun speelervaring te verpesten of andere handelingen die als ernstige hinder opgevat kunnen worden zal een straf opleveren van de 2e of 3e categorie.
 2. Het griefen zonder cheats, zoals spammen van voertuigen, objecten of dergelijke zal een straf opleveren van maximaal de 4e categorie.
 3. Noclippen in een gang huis van een officiële groepering zal een straf opleveren van de 1e categorie.
 
