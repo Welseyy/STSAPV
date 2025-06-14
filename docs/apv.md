@@ -105,8 +105,7 @@
 1. Het misbruik maken van je F6-menu door middel van onrealistische acties uit te voeren zoals onder beschreven.
 2. Gang oorlogen mogen niet zomaar gestart worden. Dit moet door het bestuur van de gangs besproken worden. (Hier valt invallen etc. ook onder!)
 3. Je mag een officiële groepering niet zomaar na doen, dit is alleen toegestaan met een goede en duidelijke roleplay.
-4. Het vluchten op het gang terrein tijdens een goed en duidelijk roleplay scenario is niet toegestaan. mits dit wel gebeurd hebben de 
-   anderen mensen het recht om binnen tevallen.
+4. Het is niet toegestaan om tijdens een goed en duidelijk lopend roleplayscenario weg te vluchten naar het eigen gangterrein om daar bescherming te zoeken. Indien dit toch gebeurt mogen andere betrokken spelers het gangterrein betreden en passende roleplayacties ondernemen.
 5. Wanneer de regel zoals in lid 1 of 2 overtreden wordt zal dit bestraft worden met een straf volgens minimaal de 1e categorie en maximaal de 4e categorie.
 6. Wanneer de regel zoals in lid 3, 4 of 5 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 
