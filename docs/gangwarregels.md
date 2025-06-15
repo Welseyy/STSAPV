@@ -1,5 +1,3 @@
-### Gangwar regels
-
 ### Sanctie's
 
 1. Categorie 1 - Waarschuwing
