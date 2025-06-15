@@ -86,7 +86,7 @@ nav:
   - Voertuigenlijst: voertuigenlijst.md
   - Itemlijst: itemlijst.md
   - Redzoneinfo: redzoneinfo.md
-  - Gangwar regels: mkdocs.yml
+  - Gangwar regels: gangwarregels.md
   - FAQ: faq.md
 
 # Customization
