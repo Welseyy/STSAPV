@@ -86,6 +86,7 @@ De volgende regels overschrijden de Artikels in het huidige APV, Artikels die we
 - Eerst is geprobeerd te onderhandelen of tot overgave te bewegen.
 2. Politie mag pas schieten bij binnenvallen als:
 - Verdachten niet gehoorzamen aan bevelen en een directe dreiging vormen.
+3. Het overtreden van de regel in lid 1 en 2 zal een straf opleveren van de 1e categorie.
 
 ### RP Artikel 12 – Inboxen en Afsluiten bij Achtervolging:
 
@@ -96,7 +97,7 @@ De volgende regels overschrijden de Artikels in het huidige APV, Artikels die we
 3. Het inboxen mag niet leiden tot een zware crash of bewust letsel veroorzaken (bijv. frontaal rammen op hoge snelheid).
 4. Onrealistisch inboxen of rammen om een verdachte te stoppen zonder gegronde reden wordt bestraft volgens categorie 1.
 
-### RP Artikel 13 - Setups:
+### RP Artikel 13 - Setups na overvallen:
 
 1. Het opzetten van een hinderlaag ("setup") is pas toegestaan na minimaal 4 minuten sinds het begin van de achtervolging.
 2. Het opzettelijk uitlokken van een achtervolging met als enig doel om direct een setup uit te voeren, zonder dat de 4 minuten verstreken zijn, wordt bestraft met de 1e categorie.
