@@ -1,5 +1,16 @@
 # Gangwar regels
 
+# Sanctie's
+
+1. Categorie 1 - Waarschuwing
+2. Categorie 2 - 2 kills aftrek
+3. Categorie 3 - 4 kills aftrek
+4. Categorie 4 - 6 kills aftrek
+5. Categorie 5 - 10 kills aftrek
+6. Categorie 6 - Gangwar eindigd.
+
+Dit zijn de regels en sancties vanuit gangmanagement. Er kunnen ook sancties worden uitgedeeld vanuit het staffteam bovenop de gang sancties.
+
 # Artikel 1 - Permissions:
 1. Het uitdelen van een sanctie aan spelers van de vijandelijke groepering voor iets gang-gerelateerds is niet toegestaan gedurende gangwar (staff)
 
