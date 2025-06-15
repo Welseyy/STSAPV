@@ -97,7 +97,7 @@ De volgende regels overschrijden de Artikels in het huidige APV, Artikels die we
 3. Het inboxen mag niet leiden tot een zware crash of bewust letsel veroorzaken (bijv. frontaal rammen op hoge snelheid).
 4. Onrealistisch inboxen of rammen om een verdachte te stoppen zonder gegronde reden wordt bestraft volgens categorie 1.
 
-### RP Artikel 13 - Setups na overvallen:
+### RP Artikel 13 - Setups tegen Politie:
 
 1. Het opzetten van een hinderlaag ("setup") is pas toegestaan na minimaal 4 minuten sinds het begin van de achtervolging.
 2. Het opzettelijk uitlokken van een achtervolging met als enig doel om direct een setup uit te voeren, zonder dat de 4 minuten verstreken zijn, wordt bestraft met de 1e categorie.
