@@ -11,6 +11,8 @@
 - Cat 8: Permanente ban
 - Cat 9: Permanente ban + discord ban
 - Straffen kunnen verhoogd worden bij het uitloggen tijdens het aangesproken worden op je gedrag, ook kan het apv ten alle tijde worden aangepast.
+- Dit apv geld voor alle officiele sts discords, servers en andere eigendommen.
+- Voor Artikel 23 worden ook externe discords meegenomen indien het leaken of het ddossen ook daadwerkelijk heeft plaatsgevonden.
 
 ### Artikel 1 - Exploits en cheats:
 
@@ -111,7 +113,7 @@
 
 ### Artikel 18 -  Terrein Claimen:
 1. Wanneer een officiele gang een terrein bezit mag deze niet door een andere groep of persoon geclaimd worden.
-2. Wanneer je weggestuurd word op een gangterrein door iemand die dit gangterrein bezit dien je weg te gaan.
+2. Wanneer je weggestuurd word op een gangterrein door iemand die dit gangterrein bezit dien je weg te gaan, je dient dan minimaal buiten shouting afstand te gaan staan van de terreinrand, de voorkeur is een nog grotere afstand om misverstanden te voorkomen.
 3. Wanneer de regels zoals in lid 1 of 2 overtreden worden, zal dit bestraft worden met een straf volgens minimaal de 2e categorie. Mocht de sanctie vaker voorkomen, kan het stafflid beslissen om te straffen volgens de 3e categorie.
 
 ### Artikel 19 -  Uitlokken van officiële gangs:
