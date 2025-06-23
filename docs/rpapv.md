@@ -17,7 +17,9 @@ De volgende regels overschrijden de Artikels in het huidige APV, Artikels die we
 ### RP Artikel 1 - RDM:
 
 1. Het is niet toegestaan om iemand zonder reden dood te schieten.
-2. Het overtreden van de regel in lid 1 zal een straf opleveren van de 1e categorie.
+2. Het schieten op voertuigen/spelers zonder intentie tot roleplay is niet toegestaan, dit valt onder combatgedrag.
+3. Het overtreden van de regel in lid 1 zal een straf opleveren van de 1e categorie.
+4. Het overtreden van de regel in lid 2 zal een straf opleveren van de 1e categorie, oplopend bij herhaling.
 
 ### RP Artikel 2 - Permissions abuse:
 
