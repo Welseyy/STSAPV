@@ -106,6 +106,16 @@ De volgende regels overschrijden de Artikels in het huidige APV, Artikels die we
 3. Overtreding van deze regel wordt bestraft met een straf van categorie 1 tot maximaal categorie 3, afhankelijk van de ernst en herhaling.
 4. Bij twijfel over de verstreken tijd heeft een stafflid de bevoegdheid het scenario tijdelijk stil te leggen voor beoordeling.
 
+### RP Artikel 14 – Copbaiting:
+1. Het is niet toegestaan om spelers die een rol als hulpdienst vervullen (zoals politie, ambulance of brandweer) zonder geldige roleplayreden te provoceren, achtervolgen, beschieten of gijzelen.
+2. Het opzettelijk uitlokken van een reactie van hulpdiensten zonder realistische of verantwoorde RP-reden valt onder copbaiting.
+3. Het overtreden van deze regel zal een straf opleveren van de 1e categorie, oplopend bij herhaling.
+
+### RP Artikel 15 – Counteren van overvallen:
+1. Wanneer een ganglid is gegijzeld en de gijzelnemer(s) vluchten tijdens een achtervolging een bank of winkel in, mag de betreffende gang de overval counteren voordat de politie ter plaatse is.
+2. Het counteren moet plaatsvinden binnen een realistische RP-context en mag niet leiden tot RDM of ander combatgedrag.
+3. Het misbruiken van deze regel om willekeurige overvallen te verstoren zonder geldige RP-reden zal bestraft worden volgens de regels voor combatgedrag.
+
 ### Samensluiting
 1. Deze regels zijn opgesteld op 01/06/2025
 2. Deze regels zijn voor het laatst bewerkt op 14/06/2025
