@@ -9,7 +9,7 @@
 - Cat 6: Ban 30 dagen
 - Cat 7: Ban 60 dagen
 - Cat 8: Permanente ban
-- Cat 9: Permanente ban + discord ban
+- Cat 9: Permanente ban + main discord ban
 - Straffen kunnen verhoogd worden bij het uitloggen tijdens het aangesproken worden op je gedrag, ook kan het apv ten alle tijde worden aangepast.
 - Dit apv geld voor alle officiele sts discords, servers en andere eigendommen.
 - Voor Artikel 23 worden ook externe discords meegenomen indien het leaken of het ddossen ook daadwerkelijk heeft plaatsgevonden.
