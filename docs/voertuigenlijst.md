@@ -7,23 +7,69 @@ Hieronder vindt je een deel van de voertuigenlijst.
 
 
 ``` sh title="Politie/Kmar_Voertuigen"
-pargento | Politie snel interventievoertuig
-peveron | Politie Offroader
-pimperial | Politie Transporter
-prebla | Politie SUV
-peveron | Politie SUV
-ponroad | Politie Zware Motor
-poffroad | Politie Offroad Motor
-pheli | Politie Zulu
-unmarkedrebla | Unmarked SUV
-unmarkedargento | Unmarked interventievoertuig
+"peveron" - Everon
+"poleveron" - Everon
+"pimperial" - Imperial
+"pargento" - Argento
+"polargento1" - Argento 1
+"polargento2" - Argento 2
+"polargento3" - Argento 3
+"polhglmobatunde" - Mobatunde Hondengeleider
+"sporetranserpolitie" - Transporter
+"wolfvariantum" - Club 8 Variant UM
+"argento6" - Argento Avant
+"argento6p" - Argento Avant 2
+"argento6b" - Argento Avant 3
+"politiequad" - Quad
+"padel" - E-bike
+"motorum" - Unmarked Motor
+"motorum2" - Unmarked Motor 2
+"kanzlersrtum" - Schwarzer Estate SRT
+"wolfRUM" - Wolf R Unmarked
+"wolfHHV" - Wolf Handhaving
+"polt" - Tober
+"wolfhoodhulp" - Club 8 NH
+"wolfhoodhulpsa" - Club 8 NH
+"prebla" - Rebla (BE)
+"polschlagenxs2" - Schlagen XS2
+"polodyssey" - Odyssey
+"poltailgater" - Tailgater
+"polmobatunde" - Mobatunde
+"BABATUNDEPOL" - Babatunde
+"POLRUMPO" - Rumpo
+"politie10" - Canis
+"poljogger" - Jogger
+"UngluPolitie" - Unglu
+"polthrust2" - Thrust
+"polws3t" - WS3T
+"kmareveron" - Everon
+"kmarimperial" - Imperial
+"kmarargento" - Argento
+"kmardubsta" - Dubsta (HRB)
+"daeneryskmar" - Daenerys
+"flatbed" - Sleepwagen
+"pstockade" - Stockade
+"unmarkedargento" - Unmarked Argento
+"unmarkedrebla" - Unmarked Rebla
+"upolballer" - Unmarked Baller
+"upolballerstd" - Unmarked Baller STD
+"upoldubstag" - Unmarked Dubsta G
+"upolimperial" - Unmarked Imperial
+"upolrebla" - Unmarked Rebla
+"upolschafter" - Unmarked Schafter
+"dsi7wagon" - Unmarked 7 Wagon
+"dsi90w" - Unmarked 90W
+"dsiargento" - Unmarked Argento
+"dsif770" - Unmarked F770
+"dsistroper" - Unmarked Troper
+"dsitransicer" - Unmarked Transicer
+"dsiws3t" - Unmarked WS3T
+"brutebearcat" - Bearcat
+"ponroad" - Onroad Motor
+"poffroad" - Offroad Motor
+"kmaronroad" - Onroad Motor
+"kmaroffroad" - Offroad Motor
 
-kmarargento | Kmar snel interventievoertuig
-kmardubsta | Kmar/HRB 4x4 
-kmareveron | Kmar SUV
-kmarimperial | Kmar Transporter
-kmaronroad | Kmar Zware Motor
-kmaroffroad | Kmar Offroad Motor
 ```
 
 ## Ambulance Voertuigenlijst
