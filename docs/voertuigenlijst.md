@@ -14,6 +14,12 @@ Hieronder vindt je een deel van de voertuigenlijst.
 "polargento1" - Argento 1
 "polargento2" - Argento 2
 "polargento3" - Argento 3
+"kanzlersrtlineeu" - Schwarzer LE NL Kenteken (Livery)
+"kanzlersrtlineeu2" - Schwarzer LE NL Kenteken
+"kanzlersrtlinesa" - Schwarzer LE GTA Kenteken (Livery)
+"kanzlersrtlinesa2" - Schwarzer LE GTA Kenteken
+"politiemotor3" - Zware Motor NL Kenteken
+"politiemotor3sa" - Zware Motor GTA Kenteken
 "polhglmobatunde" - Mobatunde Hondengeleider
 "sporetranserpolitie" - Transporter
 "wolfvariantum" - Club 8 Variant UM
