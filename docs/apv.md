@@ -65,7 +65,8 @@
 
 ### Artikel 11 - Staff Abuse:
 1. Een stafflid mag zijn permissies niet gebruiken in de Redzone.
-2. Als een stafflid zich niet aan lid 1 houd, wordt er gestraft met de 2e categorie. Als dit vaker voorkomt bij een stafflid, zal dit door management worden opgepakt en zullen hiervoor andere consequenties voor worden gegeven.
+2. In de mainlobby mag je geen permissies gebruiken die je een oneerlijk voordeel geven zoals: Het gebruik van godmode in shootouts, staffpermissies gebruiken om mensen in hun vrijheid te beperken of jezelf ongewenst op gangjobs zetten.
+3. Als een stafflid zich niet aan lid 1 houd, wordt er gestraft met de 2e categorie. Als dit vaker voorkomt bij een stafflid, zal dit door management worden opgepakt en zullen hiervoor andere consequenties voor worden gegeven.
 
 ### Artikel 12 - Overval Regels:
 1. Hij/zij die meedoet aan een overval op een juwelier, bank of winkel waarvan een officiële politiemelding is geweest, dient mee te gaan in de roleplay. Hiermee word bedoeld; Je houd je aan New life rule (stoppen met het scenario zodra je dood bent).
