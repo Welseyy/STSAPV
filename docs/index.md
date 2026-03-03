@@ -11,7 +11,7 @@ STS Haar officiele Discord servers:
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-| Shady's Testserver | Main discord server van STS | [Invite](https://discord.gg/sts) |
+| Shady's Testserver | Main discord server van STS | [Invite](https://discord.gg/PKZrnW7dQc) |
 | STS Support | Support discord van STS | [Invite](https://discord.gg/EtgWNDzpCb) |
 | STS Onderwereld | Onderwereld Discord van STS | [Invite](https://discord.gg/XsRSdDNbWt) |
 | STS Overheid | Overheids Discord van STS | [Invite](https://discord.gg/mVWmnZ7Tc8) |
